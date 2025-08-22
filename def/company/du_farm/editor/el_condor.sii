@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .el_condor {
+ city: el_condor
+ prefab: d_farm_wine
+}
+}

@@ -1,0 +1,8 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/model/mexico/buss3/textures/black_s.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[1] : { 0 , 0 }
+	diffuse : { 0.2 , 0.2 , 0.2 }
+	specular : { 0 , 0 , 0 }
+}

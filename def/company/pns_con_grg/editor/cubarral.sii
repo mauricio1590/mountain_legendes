@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .cubarral {
+ city: cubarral
+ prefab: d_con_grg
+}
+}

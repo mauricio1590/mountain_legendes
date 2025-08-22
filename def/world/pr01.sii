@@ -1,0 +1,10 @@
+SiiNunit
+{
+
+model_def : model.pr01
+{	
+	model_desc: "/model/pr01/pr01.pmd"
+
+}
+
+}

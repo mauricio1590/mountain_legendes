@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.weight.rfx" {
+	texture[0] : "/prefab/eaa/buracos/texturas/asfalto.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.365059 , 0.365059 , 0.365059 }
+	reflection : 1
+	shininess : 10
+	specular : { 0.116502 , 0.116502 , 0.116502 }
+	substance : "road"
+}

@@ -1,0 +1,6 @@
+material : "eut2.shadowonly.a.rfx" {
+	texture[0] : "/model2/landmark/marseille/cgm_tower_2_fr.tobj"
+	texture_name[0] : "texture_base"
+	shadow_bias : 0
+	queue_bias : 1
+}

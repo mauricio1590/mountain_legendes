@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.a.rfx" {
+	texture[0] : "/model/detalhes/casas/casa7/texturas/__wood_bamboo_medium_9.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 65
+	specular : { 0.0313725 , 0.0313725 , 0.0313725 }
+}

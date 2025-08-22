@@ -1,0 +1,4 @@
+material : "eut2.retroreflective.rfx" {
+	texture[0] : "/model/sign/traffic/trsign_us_speed_limit_50_ahead.tobj"
+	texture_name[0] : "texture_base"
+}

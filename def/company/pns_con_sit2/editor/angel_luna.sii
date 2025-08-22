@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .angel_luna {
+ city: angel_luna
+ prefab: d_con_site2
+}
+}

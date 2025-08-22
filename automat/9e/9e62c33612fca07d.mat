@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.weight.rfx" {
+	texture[0] : "/vehicle/trailer_owned/upgrade/r_mudflap/krone_share/r_mudflap_02.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 180
+	specular : { 0.284647 , 0.284647 , 0.284647 }
+}

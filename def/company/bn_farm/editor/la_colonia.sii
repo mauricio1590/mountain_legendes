@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .la_colonia {
+ city: la_colonia
+ prefab: d_farm1
+}
+}

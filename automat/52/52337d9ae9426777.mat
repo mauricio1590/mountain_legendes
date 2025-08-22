@@ -1,0 +1,13 @@
+material : "eut2.dif.spec.add.env.rfx" {
+	texture[0] : "/vehicle/trailer_owned/upgrade/f_body/scs_box/grid_c_tk.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.265767 , 0.265767 , 0.265767 }
+	env_factor : { 0.201056 , 0.201056 , 0.201056 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 80
+	specular : { 0.389364 , 0.389364 , 0.389364 }
+}

@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/vehicle/share/models/john_deere_s690/body_red_c.tobj"
+	texture_name[0] : "texture_base"
+}

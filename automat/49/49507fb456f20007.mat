@@ -1,0 +1,19 @@
+material : "eut2.water.rfx" {
+	texture[0] : "/model/ui/northern_lights/ice_n.tobj"
+	texture_name[0] : "texture_layer0"
+	texture[1] : "/model/ui/northern_lights/empty_n.tobj"
+	texture_name[1] : "texture_layer1"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	aux[0] : { 100 , 200 , 10 }
+	aux[1] : { 0.016675 , 0.0393934 , 0.0685384 }
+	aux[2] : { 0.0920063 , 0.335013 , 0.37426 }
+	aux[3] : { 0 , 0 , 1 , 1 }
+	aux[4] : { 0 , 0 , 1 , 1 }
+	aux[5] : 0
+	diffuse : { 0.603827 , 0.603827 , 0.603827 }
+	env_factor : { 0.182895 , 0.237324 , 0.327727 }
+	fresnel : { 0.2 , 0.9 }
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

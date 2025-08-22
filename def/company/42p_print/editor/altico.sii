@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .altico {
+ city: altico
+ prefab: d_print
+}
+}

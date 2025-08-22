@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.fx" {
+	texture[0] : "/vehicle/truck/man_tgx/interior/plastic_leather.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.447988 , 0.447988 , 0.447988 }
+	specular : { 0.0847808 , 0.0847808 , 0.0847808 }
+	shininess : 15
+	add_ambient : 0
+	reflection : 0
+}

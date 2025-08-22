@@ -1,0 +1,6 @@
+material : "eut2.shadowonly.a.rfx" {
+	texture[0] : "/model2/landmark/landmark_es/barcelona_porta_01b_ibe.tobj"
+	texture_name[0] : "texture_base"
+	shadow_bias : 0
+	queue_bias : 1
+}

@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.weight.rfx" {
+	texture[0] : "/vehicle/comil_325/interior/volks/textures/rubber.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.329412 , 0.329412 , 0.329412 }
+	reflection : 0
+	shininess : 10
+	specular : { 0 , 0 , 0 }
+}

@@ -1,0 +1,16 @@
+material : "eut2.dif.spec.weight.weight.dif.spec.weight.tg0.tg1.rfx" {
+	texture[0] : "/material/terrain/asphalt_parklot_grlt.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/terrain/asphalt_parklot_var_1.tobj"
+	texture_name[1] : "texture_over"
+	add_ambient : 0
+	aux[0] : { 10 , 10 }
+	aux[1] : { 10 , 10 }
+	aux[3] : { 1.6 , 1.6 , 1.6 , 15 }
+	diffuse : { 0.484419 , 0.484419 , 0.484419 }
+	reflection : 1
+	reflection2 : 1
+	shininess : 15
+	specular : { 1.6 , 1.6 , 1.6 }
+	substance : "road"
+}

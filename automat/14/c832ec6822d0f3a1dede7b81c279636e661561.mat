@@ -1,0 +1,9 @@
+material : "eut2.building.day" {
+	texture[0] : "/model/mid_city_buildings/mid_city_b_sc_01.dlc_north.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+	specular : { 0.787412 , 0.787412 , 0.787412 }
+	shininess : 60
+	add_ambient : 0
+	aux[5] : 0
+}

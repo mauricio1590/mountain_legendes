@@ -1,0 +1,4 @@
+material : "eut2.retroreflective.rfx" {
+	texture[0] : "/model/sign/traffic/fi/traffic_signs_fi2.tobj"
+	texture_name[0] : "texture_base"
+}

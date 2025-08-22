@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.amod.dif.spec.shadow.rfx" {
+	texture[0] : "/material/sign/flag/ets_companies/gas_01_sc_c.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/sign/flag/flag_basic_cloth.tobj"
+	texture_name[1] : "texture_over"
+	texture[2] : "/material/sign/flag/flag_basic_opa.tobj"
+	texture_name[2] : "texture_mask"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shadow_bias : -2
+	shininess : 26
+	specular : { 0.132868 , 0.132868 , 0.132868 }
+}

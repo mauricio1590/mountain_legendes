@@ -1,0 +1,9 @@
+material : "eut2.building.lvcol.day.rfx" {
+	texture[0] : "/prefab2/border_crossing/hamzabeyli/border_lesovo_gate_bg_blke.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[5] : 1
+	diffuse : { 1 , 1 , 1 }
+	shininess : 65
+	specular : { 1 , 1 , 1 }
+}

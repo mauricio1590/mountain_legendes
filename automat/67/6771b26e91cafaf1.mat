@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.decal.over.rfx" {
+	texture[0] : "/model/rock/or_rock_decal_vert.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.686578 , 0.478871 , 0.453501 }
+	queue_bias : 0
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

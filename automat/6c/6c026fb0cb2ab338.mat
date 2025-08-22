@@ -1,0 +1,10 @@
+material : "eut2.building.asafew.a.lvcol.day.rfx" {
+	texture[0] : "/model/letrero_gas_tecxaco/letrerogas.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[5] : 0
+	diffuse : { 1 , 1 , 1 }
+	shininess : 50
+	specular : { 0.00289526 , 0.00289526 , 0.00289526 }
+	queue_bias : 1
+}

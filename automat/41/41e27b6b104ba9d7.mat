@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.mult.dif.spec.shadow.rfx" {
+	texture[0] : "/model/rock/or_rock_carved_gs.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model/rock/or_rock_carved_mult.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	diffuse : { 0.723683 , 0.715187 , 0.702632 }
+	reflection : 0
+	shadow_bias : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

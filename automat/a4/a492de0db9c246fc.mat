@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.add.env.nofresnel.rfx" {
+	texture[0] : "/model/vehicle/parked_cars/parked_truck_t680.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 1
+	diffuse : { 0.229275 , 0.229275 , 0.229275 }
+	env_factor : { 0.308599 , 0.308599 , 0.308599 }
+	reflection : 0
+	shininess : 80
+	specular : { 0.652303 , 0.652303 , 0.652303 }
+}

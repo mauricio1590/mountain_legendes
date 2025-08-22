@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/vehicle/trailer/mbt1_barrier/barrier_co.tobj"
+	texture_name[0] : "texture_base"
+}

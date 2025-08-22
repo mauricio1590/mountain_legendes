@@ -1,0 +1,9 @@
+material : "eut2.building.day.rfx" {
+	texture[0] : "/model/sign/company_logos/volvo/volvo.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0.2
+	aux[5] : 0.7
+	diffuse : { 0.998294 , 0.998294 , 0.998294 }
+	shininess : 6
+	specular : { 0.0737725 , 0.0737725 , 0.0737725 }
+}

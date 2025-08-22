@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.add.env.fx" {
+	texture[0] : "/model/panorama/netherlands/color.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/generic_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	diffuse : { 0.463435 , 0.463435 , 0.463435 }
+	specular : { 0.119385 , 0.119385 , 0.119385 }
+	shininess : 60
+	add_ambient : 0
+	reflection : 0
+	env_factor : { 1 , 1 , 1 }
+}

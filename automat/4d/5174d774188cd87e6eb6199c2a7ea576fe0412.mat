@@ -1,0 +1,14 @@
+material : "eut2.building.add.env.night.shadow.rfx" {
+	texture[0] : "/model/panorama/ca_ba/ba_landmark.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/building_reflection/building_ref.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	aux[5] : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.582076 , 0.582076 , 0.582076 }
+	fresnel : { 0.2 , 0.9 }
+	shadow_bias : 0
+	shininess : 4
+	specular : { 0.010313 , 0.010313 , 0.010313 }
+}

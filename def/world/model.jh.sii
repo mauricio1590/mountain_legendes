@@ -1,0 +1,140 @@
+SiiNunit
+{
+# For modders: Please do not modify this file if you want to add a new entry. Create in
+# this directory a new file "<base_name>.<idofyourmod>.sii" where <base_name> is name of
+# base file without the extension (e.g. "city" for "/def/city.sii") and <idofyourmod> is
+# some string which is unlikely to conflict with other mod.
+#
+# Warning: Even if the units are specified in more than one source file, they share the
+# same namespace so suffixes or prefixes should be used to avoid conflicts.
+
+model_def : model.2jh {
+	model_desc: "/model/rock/grassy_top_large.pmd"
+	distance_type: 3
+
+}
+
+model_def : model.49jh {
+	model_desc: "/model/rock/grassy_top.pmd"
+}
+
+
+model_def : model.66jh {
+	model_desc: "/model/rock/grassy_cover.pmd"
+}
+
+model_def : model.67jh {
+	model_desc: "/model/rock/grassy_cover_med.pmd"
+}
+
+model_def : model.68jh {
+	model_desc: "/model/rock/grassy_cover_small.pmd"
+}
+
+model_def : model.69jh {
+	model_desc: "/model/rock/grassy_cover_small2.pmd"
+}
+
+
+model_def : model.296jh {
+ 	model_desc: "/model/rock/cliff1.pmd"
+	distance_type: 3
+}
+
+model_def : model.297jh {
+ 	model_desc: "/model/rock/mountain1.pmd"
+	distance_type: 3
+}
+
+model_def : model.298jh {
+ 	model_desc: "/model/rock/mountain2.pmd"
+	distance_type: 3
+}
+
+model_def : model.299jh {
+ 	model_desc: "/model/rock/rock1.pmd"
+	distance_type: 2
+}
+
+model_def : model.300jh {
+ 	model_desc: "/model/rock/rock2.pmd"
+	distance_type: 2
+}
+
+model_def : model.301jh {
+ 	model_desc: "/model/rock/rock3.pmd"
+	distance_type: 2
+}
+
+model_def : model.302jh {
+ 	model_desc: "/model/rock/forest_mountain1.pmd"
+	distance_type: 3
+}
+
+model_def : model.303jh {
+ 	model_desc: "/model/rock/forest_mountain2.pmd"
+	distance_type: 3
+}
+
+model_def : model.304jh {
+ 	model_desc: "/model/rock/forest_mountain3.pmd"
+	distance_type: 3
+}
+
+model_def : model.305jh {
+ 	model_desc: "/model/rock/forest_mountain1_ded.pmd"
+	distance_type: 3
+}
+
+model_def : model.306jh {
+ 	model_desc: "/model/rock/forest_mountain2_ded.pmd"
+	distance_type: 3
+}
+
+model_def : model.307jh {
+ 	model_desc: "/model/rock/forest_mountain3_ded.pmd"
+	distance_type: 3
+}
+
+
+model_def : model.405jh {
+ 	model_desc: "/model/rock/edinburgh_hill.pmd"
+}
+
+
+model_def : model.539jh {
+	model_desc: "/model/rock/grassy_top_flat_long.pmd"
+}
+
+model_def : model.540jh {
+	model_desc: "/model/rock/grassy_top_flat_rounded.pmd"
+}
+
+
+model_def : model.1051jh {
+ 	model_desc: "/model/rock/mountain3.pmd"
+	distance_type: 3
+}
+
+model_def : model.1052jh {
+ 	model_desc: "/model/rock/mountain4.pmd"
+	distance_type: 3
+}
+
+model_def : model.1053jh {
+ 	model_desc: "/model/rock/forest_mountain4.pmd"
+	distance_type: 3
+}
+
+model_def : model.1054jh {
+ 	model_desc: "/model/rock/forest_mountain5.pmd"
+	distance_type: 3
+}
+
+model_def : model.1055jh {
+ 	model_desc: "/model/rock/forest_mountain6.pmd"
+	distance_type: 3
+
+
+}
+}

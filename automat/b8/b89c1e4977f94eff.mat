@@ -1,0 +1,5 @@
+material : "eut2.unlit.tex.decal.mult.rfx" {
+	texture[0] : "/model/advert/motel_sign/jd_motel/or_jd_motel.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

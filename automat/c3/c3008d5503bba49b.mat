@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.amod.dif.spec.tsnmapuv.rfx" {
+	texture[0] : "/material/building/plaster/generic_plaster_01_nrm.tobj"
+	texture_name[0] : "texture_nmap"
+	texture[1] : "/material/building/plaster/generic_plaster_01_difspec.tobj"
+	texture_name[1] : "texture_base"
+	texture[2] : "/material/decal/softdecal/decalset_plaster_01_difspec.tobj"
+	texture_name[2] : "texture_over"
+	texture[3] : "/material/decal/softdecal/decalset_plaster_01_opa.tobj"
+	texture_name[3] : "texture_mask"
+	add_ambient : 0
+	diffuse : { 0.86054 , 0.845982 , 0.775356 }
+	reflection : 0.1
+	shininess : 10
+	specular : { 1 , 1 , 1 }
+}

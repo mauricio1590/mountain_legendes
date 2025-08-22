@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.shadow.asafew.a.rfx" {
+	texture[0] : "/model/props/lamp/wa_wenatchee_lamp.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 5
+	shadow_bias : 0
+	shininess : 20
+	specular : { 1 , 1 , 1 }
+}

@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.a.fx" {
+	texture[0] : "/model/vegetation/democentre/demo_detail_vegetation.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.294048 , 0.294048 , 0.294048 }
+	specular : { 0 , 0 , 0 }
+	shininess : 4.5
+	add_ambient : 4
+	reflection : 0
+}

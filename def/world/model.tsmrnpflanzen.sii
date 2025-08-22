@@ -1,0 +1,225 @@
+SiiNunit
+{
+# For modders: Please do not modify this file if you want to add a new entry. Create in
+# this directory a new file "<base_name>.<idofyourmod>.sii" where <base_name> is name of
+# base file without the extension (e.g. "city" for "/def/city.sii") and <idofyourmod> is
+# some string which is unlikely to conflict with other mod.
+#
+# Warning: Even if the units are specified in more than one source file, they share the
+# same namespace so suffixes or prefixes should be used to avoid conflicts.
+
+
+
+
+model_def : model.rnpflanz1 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplantpalm1.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz2 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplantpalm2.pmd"
+	distance_type: 1
+
+}
+
+
+model_def : model.rnpflanz3 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttropla2.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz4 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplantpalmoas.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz5 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplantpalm3.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz6 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplantpalm4.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz7 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplantpalm5.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz8 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplantfarn1.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz9 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttrobb1.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz10 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttrobb2.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz11 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttrobb3.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz12 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttrobb4.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz13 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttrobb5.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz14 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplantnormbb1.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz15 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplantnormbb2.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz16 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplantnormbb3.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz17 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplantnormbb4.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz18 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplantnormbb5.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz19 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttroppalm7.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz20 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttroppalm8.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz21 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttroppalm9.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz22 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttroppalm10.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz23 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttroppalm11.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz24 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttroppalm12.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz25 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttroppalm13.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz26 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttroppalm14.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz27 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttroppalm15.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz28 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttroppalm16.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz29 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttroppalm17.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz30 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttroppalm18.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz31 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnplanttroppalm19.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz32 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnpalmnew1.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz33 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnpalmnew2.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz34 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnpalmnew3.pmd"
+	distance_type: 1
+
+}
+
+model_def : model.rnpflanz35 {
+	model_desc: "/model/tsmrnpflanzen/tsmrnpalmnew4.pmd"
+	distance_type: 1
+
+}
+
+}

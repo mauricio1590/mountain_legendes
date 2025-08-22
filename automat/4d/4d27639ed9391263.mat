@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.weight.add.env.tsnmapuv.paint.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/wheel/cover/front_hub_cover_05_c.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/upgrade/wheel/cover/front_hub_cover_05_n.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0.15
+	diffuse : { 2.15 , 2.15 , 2.15 }
+	env_factor : { 0.214041 , 0.214041 , 0.214041 }
+	fresnel : { 0.2 , 1 }
+	reflection : 0
+	shininess : 50
+	specular : { 1.5 , 1.5 , 1.5 }
+}

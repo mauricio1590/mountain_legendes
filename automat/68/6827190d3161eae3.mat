@@ -1,0 +1,7 @@
+material : "eut2.unlit.vcol.tex.flipsheet.paint.over.rfx" {
+	texture[0] : "/model/advert/neon/neon_blink_motel2.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : { 1.5 , 1 , 2 }
+	aux[1] : { 1 , 0.5 }
+	diffuse : { 1 , 1 , 1 }
+}

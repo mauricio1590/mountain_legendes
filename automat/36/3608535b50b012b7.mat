@@ -1,0 +1,17 @@
+material : "eut2.dif.spec.mult.dif.spec.add.env.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/ai/dagger/color.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/ai/dagger/look_au.tobj"
+	texture_name[1] : "texture_mult"
+	texture[2] : "/vehicle/ai/dagger/normal.tobj"
+	texture_name[2] : "texture_nmap"
+	texture[3] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[3] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.401978 , 0.401978 , 0.401978 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 250
+	specular : { 0.376983 , 0.376983 , 0.376983 }
+}

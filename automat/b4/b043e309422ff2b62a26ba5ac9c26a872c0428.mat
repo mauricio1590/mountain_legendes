@@ -1,0 +1,4 @@
+material : "eut2.shadowonly.fx" {
+	substance : "road"
+	shadow_bias : 0
+}

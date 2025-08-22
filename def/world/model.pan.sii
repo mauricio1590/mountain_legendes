@@ -1,0 +1,209 @@
+SiiNunit
+{ model_def : model.pan1 {
+ 	model_desc: "/model/ged/mid_greenhouse_01.dlc_north.pmd" distance_type: 2
+	category: "panje"
+}
+
+model_def : model.pan2 {
+ 	model_desc: "/model/ged/mid_logistic_01.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+
+model_def : model.pan3 {
+ 	model_desc: "/model/ged/mid_logistic_03.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+
+model_def : model.pan4 {
+ 	model_desc: "/model/ged/mid_logistic_05.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+
+model_def : model.pan5 {
+ 	model_desc: "/model/ged/mid_logistic_06.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+
+model_def : model.pan6 {
+ 	model_desc: "/model/ged/mid_logistic_07.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+
+model_def : model.pan7 {
+ 	model_desc: "/model/ged/mid_logistic_08.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+
+model_def : model.pan8 {
+ 	model_desc: "/model/ged/mid_logistic_14.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+
+model_def : model.pan9 {
+ 	model_desc: "/model/ged/mid_logistic_15.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+
+model_def : model.pan10 {
+ 	model_desc: "/model/ged/house_01.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+
+model_def : model.pan11 {
+ 	model_desc: "/model/ru/house_01.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+
+model_def : model.pan12 {
+ 	model_desc: "/model/ru/house_02.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+
+model_def : model.pan13 {
+ 	model_desc: "/model/ru/house_03.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+
+model_def : model.pan14 {
+ 	model_desc: "/model/panorama/new/europa.pmd"
+	distance_type: 3
+	category: "panje"
+}
+
+model_def : model.pan15 {
+ 	model_desc: "/model/panorama/new/millenium_plaza.pmd"
+	distance_type: 3
+	category: "panje"
+}
+
+model_def : model.pan16 {
+ 	model_desc: "/model/sin/speedcamera_sign_it.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan17 {
+ 	model_desc: "/model/ged/farm_building_uni_01.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan18 {
+ 	model_desc: "/model/ged/farm_building_uni_02.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan19 {
+ 	model_desc: "/model/ged/farm_building_uni_03.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan20 {
+ 	model_desc: "/model/ged/farm_building_uni_04.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan21 {
+ 	model_desc: "/model/ged/farm_building_uni_05.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan22 {
+ 	model_desc: "/model/ged/greenhouse.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan23 {
+ 	model_desc: "/model/ged/sawmill_building_uni_01.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan24 {
+ 	model_desc: "/model/ged/sawmill_building_uni_02.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan25 {
+ 	model_desc: "/model/road/crosswalk_01.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan26 {
+ 	model_desc: "/model/road/parking_1line.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan27 {
+ 	model_desc: "/model/road/parking_2lines.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan28 {
+ 	model_desc: "/model/ru/car_parked_audi.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan29 {
+ 	model_desc: "/model/ru/car_parked_audi.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan30 {
+ 	model_desc: "/model/ru/car_parked_transit.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan31 {
+ 	model_desc: "/model/ru/car_parked_kia.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan32 {
+ 	model_desc: "/model/ru/car_parked_vw.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan33 {
+ 	model_desc: "/model/ru/cars_parked_5x1_var1.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan34 {
+ 	model_desc: "/model/ru/cars_parked_5x2_var1.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan35 {
+ 	model_desc: "/model/ru/cars_parked_diagonal_var3.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan36 {
+ 	model_desc: "/model/ged/house_03.dlc_north.pmd"
+	distance_type: 2
+	category: "panje"
+}
+model_def : model.pan37 {
+	model_desc: "/model/vegetation/trees_yungas/palm_tree1.pmd" 
+ 	distance_type: 1
+	category: "panje"  
+	
+}
+model_def : model.pan38 {
+	model_desc: "/model/vegetation/trees_yungas/palm_tree2.pmd" 
+ 	distance_type: 1
+	category: "panje" 
+	
+}
+
+}

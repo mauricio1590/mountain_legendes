@@ -1,0 +1,8 @@
+material : "eut2.unlit.vcol.tex.fadesheet.add.rfx" {
+	texture[0] : "/dlc/direction_blocker_dlc.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : { 0.666 , 2 , 2 }
+	aux[1] : { 0.5 , 1 }
+	aux[5] : { 4000 , 10 }
+	diffuse : { 1 , 1 , 1 }
+}

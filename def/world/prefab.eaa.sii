@@ -1,0 +1,39 @@
+SiiNunit
+{
+
+prefab_model : prefab.lombada1 {
+	category: "TOPES1"
+	model_desc: "/prefab/eaa/lombada/lombada_t1.pmd"
+	prefab_desc: "/prefab/eaa/lombada/lombada_t1.ppd"
+}
+
+prefab_model : prefab.lomb_walk1 {
+	category: "TOPES2"
+	model_desc: "/prefab/eaa/lombada/lombada_sidewalk_t1.pmd"
+	prefab_desc: "/prefab/eaa/lombada/lombada_sidewalk_t1.ppd"
+}
+
+prefab_model : prefab.lomb_walk4m1 {
+	category: "TOPES3"
+	model_desc: "/prefab/eaa/lombada/lombada_sidewalk4m_t1.pmd"
+	prefab_desc: "/prefab/eaa/lombada/lombada_sidewalk4m_t1.ppd"
+}
+
+prefab_model : prefab.lombada2 {
+	category: "TOPES4"
+	model_desc: "/prefab/eaa/lombada/lombada_t2.pmd"
+	prefab_desc: "/prefab/eaa/lombada/lombada_t2.ppd"
+}
+
+prefab_model : prefab.lomb_walk2 {
+	category: "TOPES5"
+	model_desc: "/prefab/eaa/lombada/lombada_sidewalk_t2.pmd"
+	prefab_desc: "/prefab/eaa/lombada/lombada_sidewalk_t2.ppd"
+}
+
+prefab_model : prefab.lomb_walk4m2 {
+	category: "TOPES6"
+	model_desc: "/prefab/eaa/lombada/lombada_sidewalk4m_t2.pmd"
+	prefab_desc: "/prefab/eaa/lombada/lombada_sidewalk4m_t2.ppd"
+}
+}

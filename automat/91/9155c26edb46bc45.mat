@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmapuv.rfx" {
+	texture[0] : "/model/rock/cliffs/nm_rock_block_01_mud.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model/rock/nm_rock_06_nrm.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.29794 , 0.259052 , 0.194085 }
+	reflection : 0
+	shininess : 8
+	specular : { 0.239771 , 0.239771 , 0.239771 }
+}

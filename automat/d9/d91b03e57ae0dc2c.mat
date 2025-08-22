@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/model3/vehiculo/bus/aga/textures/empty.tobj"
+	texture_name[0] : "texture_paintjob"
+	texture[1] : "/model3/vehiculo/bus/aga/textures/paint_00.tobj"
+	texture_name[1] : "texture_base"
+	add_ambient : 0
+	aux[5] : { 1 , 0 , 0 }
+	aux[6] : { 0 , 1 , 0 }
+	aux[7] : { 0 , 0 , 1 }
+	aux[8] : { 1 , 1 , 1 }
+	diffuse : { 0.5 , 0.5 , 0.5 }
+	env_factor : { 0.2 , 0.2 , 0.2 }
+	shininess : 60
+	specular : { 0.5 , 0.5 , 0.5 }
+}

@@ -1,0 +1,4 @@
+material : "eut2.retroreflective.rfx" {
+	texture[0] : "/model/sign/navigation/est/port_board_est_01.tobj"
+	texture_name[0] : "texture_base"
+}

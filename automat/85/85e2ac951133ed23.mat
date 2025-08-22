@@ -1,0 +1,11 @@
+material : "eut2.dif.lum.spec.lvcol.a.rfx" {
+	texture[0] : "/model/panorama/nm_artesia/nm_theatre.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[5] : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+	queue_bias : 1
+}

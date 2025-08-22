@@ -1,0 +1,9 @@
+material : "eut2.building.day.rfx" {
+	texture[0] : "/model/campanat/textures/Textura.015.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.299999 , 0.299999 , 0.299999 }
+	env_factor : { 1.61245 , 1.61245 , 1.61245 }
+	shininess : 95
+	specular : { 0.0299999 , 0.0299999 , 0.0299999 }
+}

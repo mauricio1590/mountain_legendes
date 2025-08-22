@@ -1,0 +1,19 @@
+material : "eut2.water.stream.rfx" {
+	texture[0] : "/material/terrain/water/waves_lake.tobj"
+	texture_name[0] : "texture_layer0"
+	texture[1] : "/material/terrain/water/waves_lake.tobj"
+	texture_name[1] : "texture_layer1"
+	texture[2] : "/material/environment/ocean_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	aux[0] : { 700 , 1650 , 10 }
+	aux[1] : { 0.0541646 , 0.0541646 , 0.0541646 }
+	aux[2] : { 0.0975873 , 0.191202 , 0.423268 }
+	aux[3] : { 0 , -0.1 , 0 , 0 }
+	aux[4] : { 0 , -0.24 , 0 , 0 }
+	aux[5] : 1
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.214041 , 0.214041 , 0.214041 }
+	fresnel : { 0.2 , 0.9 }
+	shininess : 64
+	specular : { 1 , 1 , 1 }
+}

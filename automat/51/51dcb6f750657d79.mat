@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/vehicle/ai/transporter_t6/escort_3.tobj"
+	texture_name[0] : "texture_base"
+}

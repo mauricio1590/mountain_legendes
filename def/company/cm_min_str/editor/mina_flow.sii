@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .mina_flow {
+ city: mina_flow
+ prefab: d_min_str
+}
+}

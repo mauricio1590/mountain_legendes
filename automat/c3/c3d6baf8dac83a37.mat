@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmapuv.over.rfx" {
+	texture[0] : "/model2/rock/ibe_rock_rough_02_gs.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model2/rock/ibe_rock_rough_02_nrm.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.549397 , 0.549397 , 0.549397 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

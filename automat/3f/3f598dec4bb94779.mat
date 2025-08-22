@@ -1,0 +1,8 @@
+material : "eut2.lightmap.night.rfx" {
+	texture[0] : "/vehicle/ai/locomotive_e_405/e_405_d.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : 0.2
+	diffuse : { 20 , 20 , 20 }
+	shininess : 0
+	specular : { 0 , 0 , 0 }
+}

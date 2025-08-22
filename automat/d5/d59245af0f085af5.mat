@@ -1,0 +1,17 @@
+material : "eut2.dif.spec.oclu.add.env.tsnmap.rfx" {
+	texture[0] : "/vehicle/share/textures/leather/leather_2.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/share/textures/leather/leather_0_normalmap.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/vehicle/truck/man_tgx_euro6/interior/ao.tobj"
+	texture_name[2] : "texture_oclu"
+	texture[3] : "/material/environment/interior_static/interior_static.tobj"
+	texture_name[3] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.502259 , 0.502259 , 0.502259 }
+	env_factor : { 1 , 1 , 1 }
+	fresnel : { 0 , 0.5 }
+	reflection : 0
+	shininess : 25
+	specular : { 0.153775 , 0.153775 , 0.153775 }
+}

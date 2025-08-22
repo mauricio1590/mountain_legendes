@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .aldana {
+ city: aldana
+ prefab: d_min_plnt
+}
+}

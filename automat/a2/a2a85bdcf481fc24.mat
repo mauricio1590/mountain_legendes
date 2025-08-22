@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/vehicle/trailer/lowboy_boat/details.tobj"
+	texture_name[0] : "texture_base"
+}

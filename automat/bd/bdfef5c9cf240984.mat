@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/vehicle/trailer_cs/flat_uk/textures/sheetcolour.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.0145736 , 0.041995 , 0.00763569 }
+	reflection : 0
+	shininess : 25
+	specular : { 0.0548803 , 0.0548803 , 0.0548803 }
+}

@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.mult.dif.spec.rfx" {
+	texture[0] : "/model/building/country/or_farm_set.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model/building/country/or_farm_set_color.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 40
+	specular : { 0.515075 , 0.586658 , 0.652379 }
+}

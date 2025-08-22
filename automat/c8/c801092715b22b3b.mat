@@ -1,0 +1,17 @@
+material : "eut2.dif.spec.oclu.add.env.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/toystand/bb_gate_co.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/upgrade/interior_decors/toystand/bb_gate_no.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/vehicle/truck/upgrade/interior_decors/toystand/bb_gate_oclu.tobj"
+	texture_name[2] : "texture_oclu"
+	texture[3] : "/material/environment/interior_reflection.tobj"
+	texture_name[3] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.163326 , 0.163326 , 0.163326 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 150
+	specular : { 0.6334 , 0.6334 , 0.6334 }
+}

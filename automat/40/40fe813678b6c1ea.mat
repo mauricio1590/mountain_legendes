@@ -1,0 +1,9 @@
+material : "eut2.building.lvcol.day.rfx" {
+	texture[0] : "/model/casas_br/texturas/portao_c6.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[5] : -0.8
+	diffuse : { 0.30472 , 0.30472 , 0.30472 }
+	shininess : 50
+	specular : { 0 , 0 , 0 }
+}

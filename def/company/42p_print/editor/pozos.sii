@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .pozos {
+ city: pozos
+ prefab: d_print
+}
+}

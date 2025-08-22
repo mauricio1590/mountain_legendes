@@ -1,0 +1,19 @@
+material : "eut2.dif.spec.mult.dif.iamod.dif.add.env.tsnmapuv.rfx" {
+	texture[0] : "/material/tiled/tiles/generic_tiles_05_nrm.tobj"
+	texture_name[0] : "texture_nmap"
+	texture[1] : "/material/environment/building_reflection/building_ref.tobj"
+	texture_name[1] : "texture_reflection"
+	texture[2] : "/material/tiled/tiles/generic_tiles_05_difspec.tobj"
+	texture_name[2] : "texture_base"
+	texture[3] : "/material/tiled/plaster_over_01.tobj"
+	texture_name[3] : "texture_mult"
+	texture[4] : "/material/tiled/iamod_building_01.tobj"
+	texture_name[4] : "texture_iamod"
+	add_ambient : 0
+	diffuse : { 0.777554 , 0.469692 , 0.0871483 }
+	env_factor : { 0.161149 , 0.161149 , 0.161149 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 40
+	specular : { 0.20966 , 0.20966 , 0.20966 }
+}

@@ -1,0 +1,10 @@
+material : "eut2.dif.lum.spec.add.rfx" {
+	texture[0] : "/model2/landmark/tallinn/tallinn_city_sign_balt.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 1
+	aux[5] : 1
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

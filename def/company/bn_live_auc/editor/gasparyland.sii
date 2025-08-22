@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .gasparyland {
+ city: gasparyland
+ prefab: d_farm_mkt1
+}
+}

@@ -1,0 +1,4 @@
+material : "eut2.dif.spec.shadow.rfx" {
+	texture[0] : "/model/villas/casa1/textures/ladrillos.tobj"
+	texture_name[0] : "texture_base"
+}

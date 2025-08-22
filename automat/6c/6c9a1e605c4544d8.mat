@@ -1,0 +1,11 @@
+material : "eut2.dif.anim.fadesheet.over.rfx" {
+	texture[0] : "/model/water/foam.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[0] : { 15 , 250 , 250 }
+	aux[1] : { 0.004 , 1 }
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

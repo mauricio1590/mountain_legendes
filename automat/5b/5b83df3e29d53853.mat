@@ -1,0 +1,14 @@
+material : "eut2.glass.rfx" {
+	texture[0] : "/vehicle/trailer_eu/overweight/cargo/motoryacht1.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 1.11983 , 1.11983 , 1.11983 }
+	fresnel : { 0.5 , 0.9 }
+	shininess : 800
+	specular : { 1 , 1 , 1 }
+	tint : { 0.592555 , 0.691085 , 0.644074 }
+	tint_opacity : 0
+}

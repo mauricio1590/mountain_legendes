@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.weight.over.rfx" {
+	texture[0] : "/material/road_template/us/shoulder_decal_dirt.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.522522 , 0.376878 , 0.36693 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

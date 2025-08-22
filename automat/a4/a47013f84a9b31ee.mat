@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.a.over.rfx" {
+	texture[0] : "/vehicle/trailer_owned/upgrade/f_body/scs_box/cooler.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 60
+	specular : { 0.180846 , 0.180846 , 0.180846 }
+	queue_bias : 1
+}

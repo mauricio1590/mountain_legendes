@@ -1,0 +1,7 @@
+material : "eut2.lightmap.night" {
+	texture[0] : "/prefab/tollgate/tollgate_a2_brasil/lightmap.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+	specular : { 0 , 0 , 0 }
+	shininess : 0
+}

@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.oclu.add.env.rfx" {
+	texture[0] : "/vehicle/share/textures/plastic/plastic_5.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/trailer_owned/upgrade/f_body/scs_box/tank.tobj"
+	texture_name[1] : "texture_oclu"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.116888 , 0.116888 , 0.116888 }
+	env_factor : { 0.360195 , 0.360195 , 0.360195 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 60
+	specular : { 0.209099 , 0.209099 , 0.209099 }
+}

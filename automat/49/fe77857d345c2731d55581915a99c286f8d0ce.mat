@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.fx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/toystand/white.dlc_toys.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.0737727 , 0.0737727 , 0.0737727 }
+	specular : { 0.321064 , 0.321064 , 0.321064 }
+	shininess : 30
+	add_ambient : 0
+	reflection : 0
+}

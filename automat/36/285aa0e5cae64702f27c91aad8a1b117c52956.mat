@@ -1,0 +1,8 @@
+material : "eut2.lightmap.day.fx" {
+	texture[0] : "/prefab/truck_dealer/truck_dealer_02.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+	specular : { 0 , 0 , 0 }
+	shininess : 0
+	aux[0] : 0
+}

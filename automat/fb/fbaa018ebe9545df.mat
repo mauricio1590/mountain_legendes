@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmapuv.rfx" {
+	texture[0] : "/model/rock/hills/wa_mountain3.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model/rock/hills/wa_mountain3_nrm.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 50
+	specular : { 1 , 1 , 1 }
+}

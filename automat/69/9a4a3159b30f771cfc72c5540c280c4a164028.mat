@@ -1,0 +1,8 @@
+material : "eut2.grass" {
+	texture[0] : "/model/vegetation/spruces.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+	specular : { 0.132868 , 0.132868 , 0.132868 }
+	shininess : 35
+	add_ambient : 0
+}

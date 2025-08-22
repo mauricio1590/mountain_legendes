@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.add.env.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/trailer/scs_flatbed/flatbed/cargo/mooring_buoy.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/trailer/scs_flatbed/flatbed/cargo/mooring_buoy_nmap3.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.161149 , 0.161149 , 0.161149 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 200
+	specular : { 1 , 1 , 1 }
+}

@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .sra_gameplay {
+ city: sra_gameplay
+ prefab: d_con_site1
+}
+}

@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.over.rfx" {
+	texture[0] : "/model/modbusarg/paradisog6/paint23.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[1] : { 0 , 0 }
+	diffuse : { 0.600001 , 0.600001 , 0.600001 }
+	shininess : 15
+	specular : { 0.129412 , 0.129412 , 0.129412 }
+}

@@ -1,0 +1,13 @@
+material : "eut2.dif.spec.oclu.tsnmap.rfx" {
+	texture[0] : "/vehicle/truck/renault_t/interior/plastic_hexa_in.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/renault_t/interior/ao.tobj"
+	texture_name[1] : "texture_oclu"
+	texture[2] : "/vehicle/truck/renault_t/interior/plastic_hexa_in_n.tobj"
+	texture_name[2] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.582711 , 0.582711 , 0.582711 }
+	reflection : 0
+	shininess : 15
+	specular : { 0.193502 , 0.193502 , 0.193502 }
+}

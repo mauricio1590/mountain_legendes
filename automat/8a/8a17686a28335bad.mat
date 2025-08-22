@@ -1,0 +1,8 @@
+material : "eut2.baked.spec.tsnmap.shadow.rfx" {
+	texture[0] : "/model2/building/village_close/village_close_old_03_rus_lod2_baked_dif.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model2/building/village_close/village_close_old_03_rus_lod2_baked_nrm.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/model2/building/village_close/village_close_old_03_rus_lod2_baked_bspec.tobj"
+	texture_name[2] : "texture_over"
+}

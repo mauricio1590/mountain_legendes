@@ -1,0 +1,16 @@
+material : "eut2.dif.spec.oclu.add.env.shadow.rfx" {
+	texture[0] : "/vehicle/trailer/tub_grinder/color.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/trailer/tub_grinder/ao.tobj"
+	texture_name[1] : "texture_oclu"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.073239 , 0.073239 , 0.073239 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shadow_bias : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

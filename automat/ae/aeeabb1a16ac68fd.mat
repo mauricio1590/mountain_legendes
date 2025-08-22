@@ -1,0 +1,4 @@
+material : "eut2.baked.rfx" {
+	texture[0] : "/model2/bridge/railbridge_metal_01_at_lod1_baked_dif.tobj"
+	texture_name[0] : "texture_base"
+}

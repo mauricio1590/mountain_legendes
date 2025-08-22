@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.mult.dif.spec.rfx" {
+	texture[0] : "/material/tiled/bricks_01.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/tiled/bricks_over_01.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	diffuse : { 0.75405 , 0.75405 , 0.75405 }
+	reflection : 0
+	shininess : 50
+	specular : { 0.0748329 , 0.0748329 , 0.0748329 }
+}

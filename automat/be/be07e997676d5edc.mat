@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.oclu.weight.add.env.rfx" {
+	texture[0] : "/vehicle/share/textures/metal/tilable_2.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/trailer_owned/scs_gooseneck/ao_40.tobj"
+	texture_name[1] : "texture_oclu"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.209442 , 0.209442 , 0.209442 }
+	env_factor : { 1 , 1 , 1 }
+	fresnel : { 1 , 1 }
+	reflection : 0
+	shininess : 80
+	specular : { 1 , 1 , 1 }
+}

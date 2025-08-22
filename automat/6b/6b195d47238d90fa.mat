@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.asafew.decal.over.rfx" {
+	texture[0] : "/model/vegetation/decal/universal_2.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.409144 , 0.384528 , 0.155449 }
+	queue_bias : 0
+	reflection : 0
+	shininess : 0
+	specular : { 0 , 0 , 0 }
+}

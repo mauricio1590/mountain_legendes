@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.tg0.rfx" {
+	texture[0] : "/material/road/asphalt_ca_prefab_light_tg0.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[0] : { 10 , 10 }
+	diffuse : { 0.999999 , 0.999999 , 0.999999 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

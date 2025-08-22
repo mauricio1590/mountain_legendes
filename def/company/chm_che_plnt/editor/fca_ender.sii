@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .fca_ender {
+ city: fca_ender
+ prefab: d_che_plant
+}
+}

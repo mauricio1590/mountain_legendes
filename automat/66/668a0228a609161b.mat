@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.mult.dif.spec.over.rfx" {
+	texture[0] : "/material/terrain/washington/wa_tomato_field.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/terrain/washington/alpha_test.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 1
+	shininess : 75
+	specular : { 0.261592 , 0.261592 , 0.261592 }
+}

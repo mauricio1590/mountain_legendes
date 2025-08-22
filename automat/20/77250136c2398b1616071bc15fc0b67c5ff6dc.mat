@@ -1,0 +1,5 @@
+material : "eut2.shadowmap.rfx" {
+	texture[0] : "/model/vehicle/farming/john_deere_8110_shadow.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

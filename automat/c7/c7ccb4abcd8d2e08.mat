@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.shadow.a.rfx" {
+	texture[0] : "/model/mover/bridge/wa_vanc_bridge_railing.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shadow_bias : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+	substance : "static"
+	queue_bias : 1
+}

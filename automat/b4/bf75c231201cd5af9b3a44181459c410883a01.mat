@@ -1,0 +1,8 @@
+material : "eut2.building.day.fx" {
+	texture[0] : "/model/railing/tunnel/highway_tunnel.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.214041 , 0.214041 , 0.214041 }
+	specular : { 1 , 1 , 1 }
+	shininess : 35
+	add_ambient : 0
+}

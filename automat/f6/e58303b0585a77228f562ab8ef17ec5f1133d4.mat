@@ -1,0 +1,11 @@
+material : "eut2.building.add.env.night.fx" {
+	texture[0] : "/model/landmark/aria.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	diffuse : { 1 , 1 , 1 }
+	specular : { 0.0732389 , 0.0732389 , 0.0732389 }
+	shininess : 15
+	add_ambient : 0
+	env_factor : { 1 , 1 , 1 }
+}

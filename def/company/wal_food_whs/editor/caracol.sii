@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .caracol {
+ city: caracol
+ prefab: d_food_whs
+}
+}

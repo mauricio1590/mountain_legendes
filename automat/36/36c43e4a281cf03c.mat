@@ -1,0 +1,11 @@
+material : "eut2.truckpaint.rfx" {
+	texture[0] : "/vehicle/bus/upgrade/comil_325/porta/textures/skin_41.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.52 , 0.52 , 0.52 }
+	env_factor : { 0.16 , 0.16 , 0.16 }
+	shininess : 50
+	specular : { 0.600001 , 0.600001 , 0.600001 }
+}

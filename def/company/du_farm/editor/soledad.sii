@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .soledad {
+ city: soledad
+ prefab: d_farm_wine
+}
+}

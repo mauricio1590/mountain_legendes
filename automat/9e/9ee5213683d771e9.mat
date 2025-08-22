@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/model/terminales/t_rosario/textures/_5.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[1] : { 0 , 0 }
+	diffuse : { 0.576472 , 0.458824 , 0.286275 }
+	shininess : 50
+	specular : { 0.329412 , 0.329412 , 0.329412 }
+}

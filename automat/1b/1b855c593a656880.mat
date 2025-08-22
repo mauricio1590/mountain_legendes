@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.mult.dif.spec.tsnmapuv.shadow.rfx" {
+	texture[0] : "/model2/rock/ibe_terrace_rocks.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model2/rock/ibe_terrace_rocks_mult_brown.tobj"
+	texture_name[1] : "texture_mult"
+	texture[2] : "/model2/rock/ibe_terrace_rocks_nrm.tobj"
+	texture_name[2] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.522522 , 0.522522 , 0.522522 }
+	reflection : 0
+	shadow_bias : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

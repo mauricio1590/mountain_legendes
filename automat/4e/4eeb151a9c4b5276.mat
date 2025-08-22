@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.mult.dif.spec.decal.over.rfx" {
+	texture[0] : "/model2/rock/ibe_rock_rough_01_gs.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model2/rock/ibe_rock_rough_01_mult_dark.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	queue_bias : 0
+	reflection : 0
+	shininess : 90
+	specular : { 0 , 0 , 0 }
+}

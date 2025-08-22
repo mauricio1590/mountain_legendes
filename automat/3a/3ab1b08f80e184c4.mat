@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.weight.tg0.rfx" {
+	texture[0] : "/prefab/eaa/lombada/faixa_reta.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[0] : { 10 , 10 }
+	diffuse : { 0.676091 , 0.676091 , 0.676091 }
+	reflection : 0
+	shininess : 8
+	specular : { 0.000698035 , 0.000698035 , 0.000698035 }
+}

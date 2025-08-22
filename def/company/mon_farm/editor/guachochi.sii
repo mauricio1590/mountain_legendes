@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .guachochi{
+ city: guachochi
+ prefab: d_farm_wine1
+}
+}

@@ -1,0 +1,20 @@
+material : "eut2.dif.spec.weight.weight.dif.spec.weight.tsnmapcalc.tg0.tg1.rfx" {
+	texture[0] : "/material/terrain/asphalt_parklot_var_2.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/terrain/asphalt_parklot_var_2_nrm.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/terrain/dirt_3_512.tobj"
+	texture_name[2] : "texture_over"
+	texture[3] : "/material/terrain/asphalt_parklot_var_2_nrm.tobj"
+	texture_name[3] : "texture_nmap_over"
+	add_ambient : 0
+	aux[0] : { 8 , 8 }
+	aux[1] : { 8 , 8 }
+	aux[3] : { 1 , 1 , 1 , 15 }
+	diffuse : { 1 , 1 , 1 }
+	reflection : 1
+	reflection2 : 1
+	shininess : 15
+	specular : { 1 , 1 , 1 }
+	substance : "road"
+}

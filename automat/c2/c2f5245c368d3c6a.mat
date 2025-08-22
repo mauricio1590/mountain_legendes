@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/vehicle/trailer_owned/scs_gooseneck/decals.tobj"
+	texture_name[0] : "texture_base"
+}

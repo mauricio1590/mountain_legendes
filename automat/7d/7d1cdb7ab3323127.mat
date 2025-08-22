@@ -1,0 +1,5 @@
+material : "eut2.unlit.vcol.tex.decal.over.rfx" {
+	texture[0] : "/model/ui/hangar/white_c.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 2 , 2 , 2 }
+}

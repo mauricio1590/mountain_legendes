@@ -1,0 +1,5 @@
+material : "eut2.decalshadow.rfx" {
+	texture[0] : "/vehicle/trailer_eu/scs_flatbed/cargo/marble_blocks_shadow.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

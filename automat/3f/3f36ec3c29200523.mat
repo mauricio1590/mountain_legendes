@@ -1,0 +1,8 @@
+material : "eut2.lightmap.night.rfx" {
+	texture[0] : "/model2/landmark/istanbul/admin_istanbul_blke.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : 0
+	diffuse : { 0.375099 , 0.375099 , 0.375099 }
+	shininess : 0
+	specular : { 0 , 0 , 0 }
+}

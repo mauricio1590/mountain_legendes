@@ -1,0 +1,12 @@
+material : "eut2.baked.spec.add.env.day.rfx" {
+	texture[0] : "/model2/building/village_close_04_at_lod2_baked_0_dif.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/building_reflection/building_ref.tobj"
+	texture_name[1] : "texture_reflection"
+	texture[2] : "/model2/building/village_close_04_at_lod2_baked_lumillu.tobj"
+	texture_name[2] : "texture_lightmap"
+	texture[3] : "/model2/building/village_close_04_at_lod2_baked_bspec.tobj"
+	texture_name[3] : "texture_over"
+	texture[4] : "/model2/building/village_close_04_at_lod2_baked_env.tobj"
+	texture_name[4] : "texture_mask"
+}

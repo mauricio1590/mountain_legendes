@@ -1,0 +1,17 @@
+material : "eut2.dif.spec.mult.dif.spec.add.env.tsnmap.rfx" {
+	texture[0] : "/model/ui/under_bridge/under_bridge_c.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model/ui/under_bridge/under_bridge_c.tobj"
+	texture_name[1] : "texture_mult"
+	texture[2] : "/model/ui/under_bridge/under_bridge_n.tobj"
+	texture_name[2] : "texture_nmap"
+	texture[3] : "/material/environment/fuzzy_reflection/fuzzy_reflection.tobj"
+	texture_name[3] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.373826 , 0.373826 , 0.373826 }
+	fresnel : { 0.2 , 10 }
+	reflection : 0
+	shininess : 10
+	specular : { 0.103387 , 0.103387 , 0.103387 }
+}

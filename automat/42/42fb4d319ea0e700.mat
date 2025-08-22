@@ -1,0 +1,10 @@
+material : "eut2.dif.a.over.rfx" {
+	texture[0] : "/model2/landmark/locomotive_l_0814/locomotive.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 80
+	specular : { 0.0541646 , 0.0541646 , 0.0541646 }
+	queue_bias : 1
+}

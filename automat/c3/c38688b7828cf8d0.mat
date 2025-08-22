@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmap.rfx" {
+	texture[0] : "/model2/distribution/cdu_big_pipe_ibe.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model2/distribution/cdu_big_pipe_ibe_nrm.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.268526 , 0.218647 , 0.192661 }
+	reflection : 0.75
+	shininess : 20
+	specular : { 0.699068 , 0.699068 , 0.699068 }
+}

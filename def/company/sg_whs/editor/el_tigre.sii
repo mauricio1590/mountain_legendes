@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .fresno {
+ city: el_tigre
+ prefab: d_gen_whs
+}
+}

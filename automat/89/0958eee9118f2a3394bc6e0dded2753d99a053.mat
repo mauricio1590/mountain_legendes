@@ -1,0 +1,9 @@
+material : "eut2.dif.lum.decal.over.fx" {
+	texture[0] : "/prefab/truck_dealer_small/brands.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.522521 , 0.522521 , 0.522521 }
+	specular : { 0.0732389 , 0.0732389 , 0.0732389 }
+	shininess : 16
+	add_ambient : 0
+	reflection : 0
+}

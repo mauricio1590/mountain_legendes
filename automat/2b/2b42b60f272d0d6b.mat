@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.add.env.tsnmapuv.rfx" {
+	texture[0] : "/model2/props/street/trash_bin_large_02_at.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model2/props/street/trash_bin_large_02_at_nrm.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/brushed_reflection/brushed_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.636617 , 0.636617 , 0.636617 }
+	env_factor : { 0.572123 , 0.572123 , 0.572123 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 40
+	specular : { 0.246201 , 0.246201 , 0.246201 }
+}

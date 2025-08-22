@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.mult.dif.spec.shadow.rfx" {
+	texture[0] : "/prefab_cesar/gasolinerakronos/metal_blanco.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/prefab_cesar/gasolinerakronos/ao_portes.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	diffuse : { 0.58274 , 0.58274 , 0.58274 }
+	reflection : 0
+	shadow_bias : 0
+	shininess : 25
+	specular : { 0.000493065 , 0.000493065 , 0.000493065 }
+}

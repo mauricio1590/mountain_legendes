@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .calisa {
+ city: calisa
+ prefab: d_train_st
+}
+}

@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .la_finca {
+ city: la_finca
+ prefab: d_farm
+}
+}

@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .guamal {
+ city: guamal
+ prefab: d_el_whs
+}
+}

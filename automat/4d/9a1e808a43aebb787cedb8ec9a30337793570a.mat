@@ -1,0 +1,5 @@
+material : "eut2.unlit.tex.over" {
+	texture[0] : "/material/ui/logo/logo.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

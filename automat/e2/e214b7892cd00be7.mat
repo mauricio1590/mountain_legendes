@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.a.rfx" {
+	texture[0] : "/model2/props/street/advert/tr/advert_text_blke_tr.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.0963637 , 0.0434925 , 0.0255475 }
+	reflection : 0.1
+	shininess : 65
+	specular : { 1 , 1 , 1 }
+	queue_bias : 1
+}

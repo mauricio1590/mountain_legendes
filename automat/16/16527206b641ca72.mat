@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.a.decal.over.rfx" {
+	texture[0] : "/vehicle/ai/train_cars/color_wood_wagon.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 250
+	specular : { 0 , 0 , 0 }
+	queue_bias : 1
+}

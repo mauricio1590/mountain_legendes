@@ -1,0 +1,7 @@
+material : "eut2.unlit.vcol.tex.fadesheet.paint.add.rfx" {
+	texture[0] : "/model/advert/neon/neon_blink_bar.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : { 11 , 8 , 16 }
+	aux[1] : { 0.125 , 0.5 }
+	diffuse : { 1 , 1 , 1 }
+}

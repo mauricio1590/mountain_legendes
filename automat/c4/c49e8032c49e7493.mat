@@ -1,0 +1,4 @@
+material : "eut2.retroreflective.rfx" {
+	texture[0] : "/model/sign/navigation/lv/board_lv.tobj"
+	texture_name[0] : "texture_base"
+}

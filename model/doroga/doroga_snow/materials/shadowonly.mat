@@ -1,0 +1,5 @@
+material : "eut2.shadowonly" {
+	texture[0] : "/model/doroga/doroga_snow/textures/doroga_snow.tobj"
+	texture_name[0] : "texture_base"
+	substance : "road_snow"
+}

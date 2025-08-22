@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .los_osos {
+ city: los_osos
+ prefab: d_road_grg
+}
+}

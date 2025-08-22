@@ -1,0 +1,8 @@
+material : "eut2.grass.fx" {
+	texture[0] : "/prefab/quarry/quarry_vegetation.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.318547 , 0.318547 , 0.318547 }
+	specular : { 0 , 0 , 0 }
+	shininess : 0
+	add_ambient : 0
+}
