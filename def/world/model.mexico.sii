@@ -1,0 +1,28 @@
+SiiNunit
+{
+
+
+model_def : model.houseab01 {
+	model_desc: "/model/houseabandonadas/house01.pmd"
+ 	category: "House Abandonadas"
+	distance_type: 1
+}
+
+model_def : model.houseab02 {
+	model_desc: "/model/houseabandonadas/house02.pmd"
+ 	category: "House Abandonadas"
+	distance_type: 1
+}
+
+model_def : model.houseab03 {
+	model_desc: "/model/houseabandonadas/house03.pmd"
+ 	category: "House Abandonadas"
+	distance_type: 1
+
+
+
+
+
+}
+
+}

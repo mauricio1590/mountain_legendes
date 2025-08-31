@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.add.env.shadow.rfx" {
+	texture[0] : "/vehicle/trailer_hh/lowloader4/cargo/textures/060_loco_paint.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.15426 , 0.15426 , 0.15426 }
+	env_factor : { 0.214041 , 0.214041 , 0.214041 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shadow_bias : 0
+	shininess : 60
+	specular : { 0.262045 , 0.262045 , 0.262045 }
+}

@@ -1,0 +1,14 @@
+material : "eut2.truckpaint.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/trailer/acid/plain.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/trailer/acid/plain_n.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.692071 , 0.692071 , 0.692071 }
+	env_factor : { 0.999995 , 0.999995 , 0.999995 }
+	fresnel : { 0.2 , 0.9 }
+	shininess : 50
+	specular : { 0.999998 , 0.999998 , 0.999998 }
+}

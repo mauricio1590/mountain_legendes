@@ -1,0 +1,9 @@
+material : "eut2.building.lvcol.day.rfx" {
+	texture[0] : "/model/eaa/logo3D/texturas/mapa_eaa_original.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[5] : 0
+	diffuse : { 1 , 1 , 1 }
+	shininess : 4
+	specular : { 0.00077545 , 0.00077545 , 0.00077545 }
+}

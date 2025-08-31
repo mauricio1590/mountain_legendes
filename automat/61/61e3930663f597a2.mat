@@ -1,0 +1,4 @@
+material : "eut2.retroreflective.rfx" {
+	texture[0] : "/model/sign/trsign_us_or_speed_55.tobj"
+	texture_name[0] : "texture_base"
+}

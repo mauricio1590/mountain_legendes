@@ -1,0 +1,9 @@
+material : "eut2.light.tex.rfx" {
+	texture[0] : "/material/special/decal_light_01.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : 0
+	aux[5] : { 20000 , 100 }
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0 , 0 , 0 }
+	specular : { 0 , 0 , 0 }
+}

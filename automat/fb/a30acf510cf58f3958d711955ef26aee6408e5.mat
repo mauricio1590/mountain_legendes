@@ -1,0 +1,10 @@
+material : "eut2.dif.shadow.a.fx" {
+	texture[0] : "/prefab/car_factory/car_factory_02.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+	specular : { 0.0100228 , 0.0100228 , 0.0100228 }
+	shininess : 16
+	add_ambient : 0
+	reflection : 0
+	shadow_bias : 0
+}

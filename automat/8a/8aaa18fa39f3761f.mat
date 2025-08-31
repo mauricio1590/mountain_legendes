@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.asafew.decal.over.rfx" {
+	texture[0] : "/material/special/decal_road_dirt.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.189896 , 0.151542 , 0.122612 }
+	queue_bias : 0
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

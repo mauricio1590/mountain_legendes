@@ -1,0 +1,9 @@
+material : "eut2.building.day" {
+	texture[0] : "/material/special/decal_light_01.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.0073178 , 0.0211693 , 0.0835351 }
+	specular : { 0 , 0 , 0 }
+	shininess : 4
+	add_ambient : 0
+	aux[5] : 0
+}

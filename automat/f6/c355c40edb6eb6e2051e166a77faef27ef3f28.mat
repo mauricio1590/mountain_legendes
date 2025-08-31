@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.fx" {
+	texture[0] : "/vehicle/truck/scania_streamline/color.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.214041 , 0.214041 , 0.214041 }
+	specular : { 0.318547 , 0.318547 , 0.318547 }
+	shininess : 24
+	add_ambient : 1
+	reflection : 0
+}

@@ -1,0 +1,17 @@
+material : "eut2.water.rfx" {
+	texture[0] : "/model/ui/under_bridge/water_n.tobj"
+	texture_name[0] : "texture_layer0"
+	texture[1] : "/model/ui/under_bridge/water_n.tobj"
+	texture_name[1] : "texture_layer1"
+	texture[2] : "/material/environment/fuzzy_reflection/fuzzy_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	aux[0] : { 1 , 70 , 1.2 }
+	aux[1] : { 0.118099 , 0.0918367 , 0.0441863 }
+	aux[2] : { 1 , 0.846873 , 0.590619 }
+	aux[3] : { 90 , 0 , 0.5 , 0.5 }
+	aux[4] : { 90 , 0 , 1 , 1 }
+	diffuse : { 0.0889243 , 0.0889243 , 0.0889243 }
+	env_factor : { 0.559388 , 0.47496 , 0.333323 }
+	shininess : 10
+	specular : { 0.494856 , 0.420433 , 0.295506 }
+}

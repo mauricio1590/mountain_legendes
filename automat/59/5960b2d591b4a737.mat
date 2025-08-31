@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.weight.over.rfx" {
+	texture[0] : "/material/decal/ca_sandrails.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.371063 , 0.335902 , 0.330591 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

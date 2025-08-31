@@ -1,0 +1,15 @@
+SiiNunit
+{ model_def : model.legiunnaire1 {
+ 	model_desc: "/model/building/yungas/village/kiosk.pmd" distance_type: 3
+}
+
+model_def : model.legiunnaire2 {
+ 	model_desc: "/model/warung/warten.pmd"
+	distance_type: 3
+}
+
+model_def : model.legiunnaire3 {
+ 	model_desc: "/model/jembatan/jembatan01.pmd"
+	distance_type: 3
+}
+}

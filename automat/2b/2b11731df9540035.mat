@@ -1,0 +1,6 @@
+material : "eut2.baked.spec.rfx" {
+	texture[0] : "/model2/building/shop/structure_set_mall_03_rus_lod1_baked_orange_dif.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model2/building/shop/structure_set_mall_03_rus_lod1_baked_bspec.tobj"
+	texture_name[1] : "texture_over"
+}

@@ -1,0 +1,17 @@
+material : "eut2.dif.spec.oclu.add.env.tsnmap.rfx" {
+	texture[0] : "/vehicle/truck/renault_t/interior/tephrite_seam.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/renault_t/interior/ao.tobj"
+	texture_name[1] : "texture_oclu"
+	texture[2] : "/material/environment/soft_reflection/soft_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	texture[3] : "/vehicle/truck/renault_t/interior/tephrite_seam_n.tobj"
+	texture_name[3] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.132868 , 0.132868 , 0.132868 }
+	env_factor : { 0.0196066 , 0.0196066 , 0.0196066 }
+	fresnel : { 1 , 0 }
+	reflection : 0
+	shininess : 20
+	specular : { 1 , 1 , 1 }
+}

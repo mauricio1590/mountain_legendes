@@ -1,0 +1,9 @@
+material : "eut2.dif.decal.over.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/toystand/shepherd_co.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0 , 0 , 0 }
+	reflection : 0
+	shininess : 1
+	specular : { 0 , 0 , 0 }
+}

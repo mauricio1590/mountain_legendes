@@ -1,0 +1,13 @@
+material : "eut2.dif.spec.add.env.fx" {
+	texture[0] : "/vehicle/truck/scania_streamline/interior/plast.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	fresnel : { -1 , 3 }
+	reflection : 0
+	env_factor : { 0.0517184 , 0.0517184 , 0.0517184 }
+	shininess : 10
+	specular : { 0.0277203 , 0.0277203 , 0.0277203 }
+}

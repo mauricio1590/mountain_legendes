@@ -1,0 +1,4 @@
+material : "eut2.retroreflective.piko.alldir.rfx" {
+	texture[0] : "/vehicle/trailer/scs_chipvan/color.tobj"
+	texture_name[0] : "texture_base"
+}

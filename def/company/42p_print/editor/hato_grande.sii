@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .hato_grande {
+ city: hato_grande
+ prefab: d_print
+}
+}

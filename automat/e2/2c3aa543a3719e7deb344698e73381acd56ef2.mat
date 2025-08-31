@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/vehicle/ai/jeep_cherokee/color.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.67767 , 0.67767 , 0.67767 }
+	reflection : 0
+	shininess : 4
+	specular : { 0.0457666 , 0.0457666 , 0.0457666 }
+}

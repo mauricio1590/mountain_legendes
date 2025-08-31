@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.a.rfx" {
+	texture[0] : "/model/rock/or_rock_decal.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.578715 , 0.531942 , 0.499094 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

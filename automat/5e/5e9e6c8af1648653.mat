@@ -1,0 +1,7 @@
+material : "eut2.unlit.vcol.tex.flipsheet.over.rfx" {
+	texture[0] : "/model2/sign/props/hotel/hotel_neon_red.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : { 15 , 1 , 2 }
+	aux[1] : { 1 , 0.5 }
+	diffuse : { 1 , 1 , 1 }
+}

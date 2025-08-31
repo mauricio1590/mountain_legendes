@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.add.env.decal.over.rfx" {
+	texture[0] : "/asset/machine/aircraft/an_124/color.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/building_reflection/building_ref.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.265767 , 0.265767 , 0.265767 }
+	fresnel : { 0.2 , 0.9 }
+	queue_bias : 0
+	reflection : 0
+	shininess : 4
+	specular : { 0.201056 , 0.201056 , 0.201056 }
+}

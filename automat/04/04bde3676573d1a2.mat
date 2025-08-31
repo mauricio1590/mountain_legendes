@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/vehicle/ai/ford_transit_2016/no_paint.tobj"
+	texture_name[0] : "texture_base"
+}

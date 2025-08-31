@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/trailer/dump/sand_n.tobj"
+	texture_name[0] : "texture_nmap"
+	texture[1] : "/vehicle/trailer/dump/sand.tobj"
+	texture_name[1] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 3
+	specular : { 0.0100228 , 0.0100228 , 0.0100228 }
+}

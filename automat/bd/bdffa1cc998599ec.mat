@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/vehicle/trailer_cs/flat6ax/textures/rebar.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.701185 , 0.701185 , 0.701185 }
+	reflection : 0
+	shininess : 50
+	specular : { 0.0609372 , 0.0609372 , 0.0609372 }
+}

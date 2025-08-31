@@ -1,0 +1,4 @@
+material : "eut2.retroreflective.rfx" {
+	texture[0] : "/model/sign/navigation/route_shiled_navigation.tobj"
+	texture_name[0] : "texture_base"
+}

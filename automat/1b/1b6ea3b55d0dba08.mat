@@ -1,0 +1,17 @@
+material : "eut2.dif.spec.mult.dif.spec.add.env.tsnmapuv.rfx" {
+	texture[0] : "/model/ui/garage/garage_tiles.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model/ui/garage/ao_textures/tiles.tobj"
+	texture_name[1] : "texture_mult"
+	texture[2] : "/model/ui/garage/garage_tiles_n.tobj"
+	texture_name[2] : "texture_nmap"
+	texture[3] : "/material/environment/ui_vehicle_reflection.tobj"
+	texture_name[3] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 1 , 1 , 1 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0.1
+	shininess : 80
+	specular : { 0.353836 , 0.353836 , 0.353836 }
+}

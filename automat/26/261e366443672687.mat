@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmap.over.rfx" {
+	texture[0] : "/model/ui/garage/garage_atlas_c.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model/ui/garage/garage_atlas_n.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.138977 , 0.138977 , 0.138977 }
+	reflection : 0
+	shininess : 8
+	specular : { 0.0016645 , 0.0016645 , 0.0016645 }
+}

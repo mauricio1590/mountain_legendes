@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.mult.dif.spec.rfx" {
+	texture[0] : "/model/panorama/or_portland/or_admin_houses_gs.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model/panorama/or_portland/or_admin_houses_color_4.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

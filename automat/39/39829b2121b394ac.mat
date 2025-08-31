@@ -1,0 +1,8 @@
+material : "eut2.retroreflective.rfx" {
+	texture[0] : "/model/sign/navigation/boards_nm.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	shininess : 60
+	specular : { 0.132868 , 0.132868 , 0.132868 }
+}

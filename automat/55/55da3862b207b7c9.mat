@@ -1,0 +1,13 @@
+material : "eut2.dif.spec.add.env.rfx" {
+	texture[0] : "/prefab/depots/marine/wa_ships_base.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/building_reflection/building_ref.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.727756 , 0.727756 , 0.727756 }
+	env_factor : { 0.578792 , 0.578792 , 0.578792 }
+	fresnel : { 0.1 , 0.3 }
+	reflection : 1
+	shininess : 8
+	specular : { 0.140864 , 0.140864 , 0.140864 }
+}

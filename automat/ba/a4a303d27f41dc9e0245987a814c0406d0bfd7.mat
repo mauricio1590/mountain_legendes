@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.add.env.tsnmap" {
+	texture[0] : "/dlc_bus/vehicle/bus/scania_touring/mat_norm.tobj"
+	texture_name[0] : "texture_nmap"
+	texture[1] : "/dlc_bus/vehicle/bus/scania_touring/mat.tobj"
+	texture_name[1] : "texture_base"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	diffuse : { 1 , 1 , 1 }
+	specular : { 0.447988 , 0.447988 , 0.447988 }
+	shininess : 60
+	add_ambient : 0
+	reflection : 0
+	env_factor : { 0.0226815 , 0.0226815 , 0.0226815 }
+}

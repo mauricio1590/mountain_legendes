@@ -1,0 +1,4 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/model/tw01/ctemple1/textures/Texture.013.tobj"
+	texture_name[0] : "texture_base"
+}

@@ -1,0 +1,12 @@
+material : "eut2.truckpaint.rfx" {
+	texture[0] : "/vehicle/trailer_eu/schw_reefer/schw_reefer_d.dlc_schwarzmuller.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 1 , 1 , 1 }
+	fresnel : { 0 , 0.4 }
+	shininess : 35
+	specular : { 0.688406 , 0.688406 , 0.688406 }
+}

@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.fx" {
+	texture[0] : "/vehicle/truck/volvo_fh16_2009/interior/cheap_leather.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.603827 , 0.496449 , 0.367246 }
+	specular : { 0.0196066 , 0.0196066 , 0.0196066 }
+	shininess : 15
+	add_ambient : 0
+	reflection : 0
+}

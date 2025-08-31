@@ -1,0 +1,27 @@
+SiiNunit
+{
+model_def : model.rigo_001 {
+ 	model_desc: "/model2/props/street/dirt/trash_01_it.pmd"
+	category: "props"
+}
+model_def : model.rigo_002 {
+ 	model_desc: "/model2/props/street/dirt/trash_03_it.pmd"
+	category: "props"
+}
+model_def : model.rigo_003 {
+ 	model_desc: "/model2/props/street/dirt/trash_04_it.pmd"
+	category: "props"
+}
+model_def : model.rigo_004 {
+ 	model_desc: "/model2/props/street/dirt/trash_05_it.pmd"
+	category: "props"
+}
+model_def : model.rigoscene_61 {
+	model_desc: "/model2/event/burning_tank.pmd"
+	category: "event"
+}
+model_def : model.rigo_005 {
+ 	model_desc: "/model2/props/street/dirt/trash_02_it.pmd"
+	category: "props"
+}
+}

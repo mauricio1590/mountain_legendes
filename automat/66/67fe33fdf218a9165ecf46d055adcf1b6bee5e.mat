@@ -1,0 +1,5 @@
+material : "eut2.flare.fx" {
+	texture[0] : "/prefab/truck_dealer_small/truck_dealer_small_03.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

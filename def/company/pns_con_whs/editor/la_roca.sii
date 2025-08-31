@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .la_roca{
+ city: la_roca
+ prefab: d_con_whs
+}
+}

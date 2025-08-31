@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.fx" {
+	texture[0] : "/vehicle/truck/iveco_stralis/interior/plastic_black.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.787412 , 0.787412 , 0.787412 }
+	specular : { 0.603827 , 0.603827 , 0.603827 }
+	shininess : 64
+	add_ambient : 0
+	reflection : 0
+}

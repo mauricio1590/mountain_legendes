@@ -1,0 +1,12 @@
+material : "eut2.baked.spec.add.env.paint.rfx" {
+	texture[0] : "/vehicle/ai/superb_iii/ai_combi_lod3_baked_dif.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	texture[2] : "/vehicle/ai/superb_iii/ai_combi_lod3_baked_bspec.tobj"
+	texture_name[2] : "texture_over"
+	texture[3] : "/vehicle/ai/superb_iii/ai_combi_lod3_baked_env.tobj"
+	texture_name[3] : "texture_mask"
+	texture[4] : "/vehicle/ai/superb_iii/ai_combi_lod3_baked_paint.tobj"
+	texture_name[4] : "texture_mask_1"
+}

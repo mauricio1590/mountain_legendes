@@ -1,0 +1,17 @@
+material : "eut2.dif.spec.mult.dif.spec.add.env.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/ai/izuzu_mx/color_dryvan.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/ai/izuzu_mx/paint02.tobj"
+	texture_name[1] : "texture_mult"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	texture[3] : "/vehicle/ai/izuzu_mx/dryvan_normalmap.tobj"
+	texture_name[3] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.15 , 0.15 , 0.15 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 50
+	specular : { 0.5 , 0.5 , 0.5 }
+}

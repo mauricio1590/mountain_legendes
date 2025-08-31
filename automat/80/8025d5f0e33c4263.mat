@@ -1,0 +1,7 @@
+material : "eut2.unlit.vcol.tex.fadesheet.paint.over.rfx" {
+	texture[0] : "/model/mover/boat/ship_wake_01.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : { 12 , 4 , 16 }
+	aux[1] : { 0.25 , 0.25 }
+	diffuse : { 1 , 1 , 1 }
+}

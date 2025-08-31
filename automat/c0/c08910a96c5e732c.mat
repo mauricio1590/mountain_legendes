@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.weight.add.env.tsnmap.over.rfx" {
+	texture[0] : "/model/ui/night_city/road.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model/ui/night_city/road_n.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/generic_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 1 , 1 , 1 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 100
+	specular : { 0.0331048 , 0.0331048 , 0.0331048 }
+}

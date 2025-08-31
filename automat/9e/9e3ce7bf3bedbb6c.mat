@@ -1,0 +1,9 @@
+material : "eut2.lightmap.night.rfx" {
+	texture[0] : "/prefab2/gas_station/gas_small_road_02_decal_ibe_v2.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : 0
+	aux[5] : { 0 , 0 }
+	diffuse : { 0.832497 , 0.832497 , 0.832497 }
+	env_factor : { 0 , 0 , 0 }
+	specular : { 0 , 0 , 0 }
+}

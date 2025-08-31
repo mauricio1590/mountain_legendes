@@ -1,0 +1,7 @@
+material : "eut2.unlit.vcol.tex.flipsheet.decal.over.rfx" {
+	texture[0] : "/prefab2/ports/running_display_balt.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : { 25 , 400 , 400 }
+	aux[1] : { 0.005 , 1 }
+	diffuse : { 1 , 1 , 1 }
+}

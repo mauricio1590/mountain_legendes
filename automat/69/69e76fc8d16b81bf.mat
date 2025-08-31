@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/model3/sign/transito/s_reductor_aqui.tobj"
+	texture_name[0] : "texture_base"
+}

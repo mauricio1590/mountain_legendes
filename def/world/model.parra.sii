@@ -1,0 +1,108 @@
+SiiNunit
+{
+
+model_def : model.11parra {
+	model_desc: "/model/vehicle/car_bmw5.pmd"
+	category: "buses"
+}	
+model_def : model.12parra {
+	model_desc: "/model/vehicle/parked_cars/emergence.pmd"
+	category: "mulas"
+}	
+model_def : model.13parra {
+	model_desc: "/model/vehicle/parked_cars1/camiones.pmd"
+	category: "mulas"
+}	
+model_def : model.14parra {
+	model_desc: "/model/vehicle/parked_cars/g7.pmd"
+	category: "buses"
+}
+model_def : model.15parra {
+	model_desc: "/model/vehicle/car_transit.pmd"
+	category: "buses"
+}
+model_def : model.16parra {
+	model_desc: "/model/vehicle/car_volvo.pmd"
+	category: "buses"
+}
+model_def : model.17parra {
+	model_desc: "/model/vehicle/cart.pmd"
+	category: "buses"
+}
+model_def : model.18parra {
+	model_desc: "/model/vehicle/cat.pmd"
+	category: "buses"
+}
+model_def : model.19parra {
+	model_desc: "/model/vehicle/trailer_reefer.pmd"
+	category: "buses"
+}
+model_def : model.20parra {
+	model_desc: "/model/vehicle/parked_cars/old_bike_lod2.pmd"
+	category: "buses"
+}	
+model_def : model.21parra {
+	model_desc: "/model/vehicle/parked_cars1/camiones_1.pmd"
+	category: "mulas"
+	}	
+model_def : model.22parra {
+	model_desc: "/model/vehicle/parked_cars1/cocacola.pmd"
+	category: "mulas"
+	}	
+model_def : model.23parra {
+	model_desc: "/model/col/parra/dodge.pmd"
+	category: "mulas"
+}	
+model_def : model.24parra {
+	model_desc: "/model/col/parra/dina.pmd"
+	category: "mulas"
+}	
+model_def : model.25parra {
+	model_desc: "/model/col/parra2/dodge_02.pmd"
+	category: "mulas"
+}	
+model_def : model.26parra {
+	model_desc: "/model/col/parra2/militar.pmd"
+	category: "militar"
+}	
+model_def : model.27parra {
+	model_desc: "/model/col/parra2/tanque_militar.pmd"
+	category: "militar"
+}	
+model_def : model.28parra {
+	model_desc: "/model/col/parra2/policia_acostado.pmd"
+	category: "militar"
+}	
+model_def : model.29parra {
+	model_desc: "/model/col/parra2/carpa.pmd"
+	category: "militar"
+}	
+model_def : model.30parra {
+	model_desc: "/model/col/parra/dodge_03.pmd"
+	category: "mulas"
+}	
+model_def : model.31parra {
+	model_desc: "/model/truck/luz/ai.pmd"
+	category: "mulas"
+	}	
+model_def : model.32parra {
+	model_desc: "/model/parra/bascula/bascula.pmd"
+	category: "bascula"
+}	
+model_def : model.33parra {
+	model_desc: "/model/col/parra2/policia_acostado2.pmd"
+	category: "militar"
+	}	
+model_def : model.34parra {
+	model_desc: "/model/col/parra2/alcantarilla.pmd"
+	category: "militar"
+	}	
+model_def : model.35parra {
+	model_desc: "/model/col/parra2/recolector.pmd"
+	category: "militar"
+		}	
+model_def : model.36parra {
+	model_desc: "/model/col/parra2/valla.pmd"
+	category: "militar"
+}	
+}

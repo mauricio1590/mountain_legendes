@@ -1,0 +1,9 @@
+SiiNunit
+{
+building_model : bld_model.404 {
+	railing_model: true
+	follow_curve_dir: true
+	model_desc: "/model/doroga/doroga_snow/doroga_koleya94.pmd"
+	look_name: default
+}
+}

@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.tsnmapuv.a.rfx" {
+	texture[0] : "/model2/power_line/railway_powerlines_single_01_rus_dif.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model2/power_line/railway_powerlines_single_01_rus_nrm.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.226272 , 0.226272 , 0.226272 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+	queue_bias : 1
+}

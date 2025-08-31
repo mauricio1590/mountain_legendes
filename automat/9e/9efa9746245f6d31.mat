@@ -1,0 +1,4 @@
+material : "eut2.retroreflective.rfx" {
+	texture[0] : "/prefab2/border_crossing/terechova/border_terechova_civil_gate_ru_rus.tobj"
+	texture_name[0] : "texture_base"
+}

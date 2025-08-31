@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.add.env.decal.over.rfx" {
+	texture[0] : "/vehicle/ai/huracan/polizia_d.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.0906547 , 0.0906547 , 0.0906547 }
+	fresnel : { 0.2 , 0.9 }
+	queue_bias : 0
+	reflection : 0
+	shininess : 250
+	specular : { 1 , 1 , 1 }
+}

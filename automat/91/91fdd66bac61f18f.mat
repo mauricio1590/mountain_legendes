@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.mult.dif.spec.a.decal.over.rfx" {
+	texture[0] : "/model2/rock/hillside2_gs_blke.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model2/rock/hillside_sandy_mult.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	queue_bias : 1
+	reflection : 0
+	shininess : 20
+	specular : { 0.0327941 , 0.0327941 , 0.0327941 }
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+
+model_def : model.puente
+{
+	model_desc: "/model/puente2/puente2.pmd"
+	
+	
+
+}
+
+}

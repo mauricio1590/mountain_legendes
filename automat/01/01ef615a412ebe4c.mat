@@ -1,0 +1,5 @@
+material : "eut2.unlit.tex.decal.mult.rfx" {
+	texture[0] : "/model/sign/company_logos/abq_cargo/abq_cargo.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

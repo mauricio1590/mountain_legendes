@@ -1,0 +1,12 @@
+material : "eut2.truckpaint.rfx" {
+	texture[0] : "/vehicle/trailer/chemical/plain.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.692071 , 0.692071 , 0.692071 }
+	env_factor : { 1 , 1 , 1 }
+	fresnel : { 0.2 , 0.9 }
+	shininess : 50
+	specular : { 1 , 1 , 1 }
+}

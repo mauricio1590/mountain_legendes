@@ -1,0 +1,5 @@
+material : "eut2.unlit.tex.add.rfx" {
+	texture[0] : "/vehicle/ai/mazda_cx3/color.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

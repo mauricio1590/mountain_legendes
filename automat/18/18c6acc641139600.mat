@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.decal.over.rfx" {
+	texture[0] : "/prefab/depots/home_improvement/lowes/or_home_improvement.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.787412 , 0.787412 , 0.787412 }
+	queue_bias : 0
+	reflection : 0
+	shininess : 2
+	specular : { 0 , 0 , 0 }
+}

@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.add.env.tsnmapuv.rfx" {
+	texture[0] : "/prefab2/truck_dealer/volvo/garage_door.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/prefab2/truck_dealer/volvo/garage_door_nrm.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/building_reflection/building_ref.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.126291 , 0.126291 , 0.126291 }
+	fresnel : { 0.5 , 0.3 }
+	reflection : 0.1
+	shininess : 85
+	specular : { 0.511463 , 0.511463 , 0.511463 }
+}

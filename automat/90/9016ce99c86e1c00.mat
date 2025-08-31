@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/vehicle/trailer/magnitude_55l/details.tobj"
+	texture_name[0] : "texture_base"
+}

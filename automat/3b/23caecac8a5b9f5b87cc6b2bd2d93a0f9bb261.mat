@@ -1,0 +1,8 @@
+material : "eut2.building.night.rfx" {
+	texture[0] : "/model/reno/highway_hotel_mid.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	shininess : 64
+	specular : { 1 , 1 , 1 }
+}

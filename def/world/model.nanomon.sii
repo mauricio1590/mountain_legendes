@@ -1,0 +1,12 @@
+SiiNunit
+{
+
+model_def : model.flx37 {
+    model_desc: "/model/vegetation/bangla/b_banana1.pmd"
+	distance_type: 3
+	category: "NANOMON1"
+	
+
+
+}
+}

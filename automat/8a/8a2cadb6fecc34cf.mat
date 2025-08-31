@@ -1,0 +1,19 @@
+material : "eut2.dif.spec.mult.dif.iamod.dif.add.env.tsnmapuv.rfx" {
+	texture[0] : "/model2/panorama/flats_02_mid_at_nrm.tobj"
+	texture_name[0] : "texture_nmap"
+	texture[1] : "/material/environment/building_reflection/building_ref.tobj"
+	texture_name[1] : "texture_reflection"
+	texture[2] : "/model2/panorama/flats_02_mid_at.tobj"
+	texture_name[2] : "texture_base"
+	texture[3] : "/model2/panorama/flats_02_color_01_mid_at.tobj"
+	texture_name[3] : "texture_mult"
+	texture[4] : "/material/tiled/iamod_building_01.tobj"
+	texture_name[4] : "texture_iamod"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 1 , 1 , 1 }
+	fresnel : { 0.15 , 0.9 }
+	reflection : 1
+	shininess : 40
+	specular : { 1 , 1 , 1 }
+}

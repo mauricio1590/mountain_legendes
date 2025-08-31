@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/model/props/lamp/wa_wenatchee_lamp.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 5
+	shininess : 20
+	specular : { 1 , 1 , 1 }
+}

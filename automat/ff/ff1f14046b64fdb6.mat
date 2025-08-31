@@ -1,0 +1,6 @@
+material : "eut2.unlit.tex.a.decal.mult.rfx" {
+	texture[0] : "/model/sign/company_logos/deep_grove/deep_grove.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+	queue_bias : 1
+}

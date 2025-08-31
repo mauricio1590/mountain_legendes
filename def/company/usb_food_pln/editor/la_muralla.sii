@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .la_muralla {
+ city: la_muralla
+ prefab: d_food_plnt4
+}
+}

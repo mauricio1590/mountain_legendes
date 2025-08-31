@@ -1,0 +1,4 @@
+material : "eut2.dif.spec.shadow.a.rfx" {
+	texture[0] : "/model/tw01/cad2d/textures/cad2a3.tobj"
+	texture_name[0] : "texture_base"
+}

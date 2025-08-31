@@ -1,0 +1,10 @@
+material : "eut2.dif.a.rfx" {
+	texture[0] : "/vehicle/truck/scania_2016/interior/common_c.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 50
+	specular : { 0.0512598 , 0.0512598 , 0.0512598 }
+	queue_bias : 1
+}

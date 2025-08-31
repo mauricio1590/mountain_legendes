@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.weight.add.env.tsnmap.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/toystand/deer_co.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/interior_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	texture[2] : "/vehicle/truck/upgrade/interior_decors/toystand/deer_no.tobj"
+	texture_name[2] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 1 , 0.862419 , 0.466817 }
+	env_factor : { 1 , 0.854519 , 0.268734 }
+	fresnel : { 3 , 0 }
+	reflection : 0
+	shininess : 64
+	specular : { 2 , 0.812897 , 0.34129 }
+}

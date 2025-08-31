@@ -1,0 +1,10 @@
+material : "eut2.building.asafew.a.night" {
+	texture[0] : "/model/panorama/generic/village_generic_01_no.dlc_north.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+	specular : { 0.00468048 , 0.00468048 , 0.00468048 }
+	shininess : 12
+	add_ambient : 0
+	aux[5] : 0
+	queue_bias : 1
+}

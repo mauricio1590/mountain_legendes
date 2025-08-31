@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmapuv.rfx" {
+	texture[0] : "/model2/landmark/roundabout_giraffe_fr.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model2/landmark/roundabout_giraffe_nrm_fr.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 30
+	specular : { 1 , 0.853056 , 0.657711 }
+}

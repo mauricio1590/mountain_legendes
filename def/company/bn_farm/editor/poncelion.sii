@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .poncelion {
+ city: poncelion
+ prefab: d_farm1
+}
+}

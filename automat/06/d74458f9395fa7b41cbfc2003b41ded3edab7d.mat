@@ -1,0 +1,8 @@
+material : "eut2.dif.spec.shadow" {
+	texture[0] : "/model/sign/small_roads_navigation/31_a.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+	specular : { 0.214041 , 0.214041 , 0.214041 }
+	shininess : 30
+	shadow_bias : 0
+}

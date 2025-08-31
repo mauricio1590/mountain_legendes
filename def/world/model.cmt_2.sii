@@ -1,0 +1,9 @@
+SiiNunit
+{
+
+model_def : model.cmt_2
+{
+	model_desc: "/model/cmt_2/cmt_2.pmd"
+}
+
+}

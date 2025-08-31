@@ -1,0 +1,10 @@
+SiiNunit
+{
+prefab_model : prefab.flx06 {
+	model_desc: "/prefab/fretes/fretes.pmd"
+	prefab_desc: "/prefab/fretes/fretes_1.ppd"
+	category: "Cargas"
+
+
+}
+}

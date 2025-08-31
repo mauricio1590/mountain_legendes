@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.add.env.tsnmap.paint.fx" {
+	texture[0] : "/model2/vehicle/cars_parked/scania_very_far_normalmap_sc.tobj"
+	texture_name[0] : "texture_nmap"
+	texture[1] : "/model2/vehicle/cars_parked/scania_very_far_sc.tobj"
+	texture_name[1] : "texture_base"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.073239 , 0.073239 , 0.073239 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 250
+	specular : { 1.5 , 1.5 , 1.5 }
+}

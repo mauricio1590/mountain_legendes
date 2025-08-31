@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.add.env.nofresnel.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/ai/lowcab/color_d_reef.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/ai/lowcab/reefer_normalmap.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.587554 , 0.587554 , 0.587554 }
+	reflection : 0
+	shininess : 60
+	specular : { 0.642811 , 0.642811 , 0.642811 }
+}

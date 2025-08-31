@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.mult.dif.spec.add.env.rfx" {
+	texture[0] : "/vehicle/ai/renault_megane_grand_tour/color.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/ai/renault_megane_grand_tour/nat_gendarmerie.tobj"
+	texture_name[1] : "texture_mult"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.999998 , 0.999998 , 0.999998 }
+	env_factor : { 0.261592 , 0.261592 , 0.261592 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 240
+	specular : { 0.561007 , 0.561007 , 0.561007 }
+}

@@ -1,0 +1,4 @@
+material : "eut2.retroreflective.dim.alldir.rfx" {
+	texture[0] : "/material/special/doors_00.tobj"
+	texture_name[0] : "texture_base"
+}

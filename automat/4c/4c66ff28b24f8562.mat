@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmap.a.rfx" {
+	texture[0] : "/model/panorama/or_newport/or_aquarium_statue2.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model/panorama/or_newport/or_aquarium_statue2_nrm.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 50
+	specular : { 0.0923106 , 0.0923106 , 0.0923106 }
+}

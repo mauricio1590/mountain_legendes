@@ -1,0 +1,7 @@
+﻿SiiNunit
+{
+building_scheme : bld_scheme.scheme404 {
+	name: "doroga_koleya94"
+	models[]: bld_model.404
+}
+}

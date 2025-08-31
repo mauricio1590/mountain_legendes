@@ -1,0 +1,14 @@
+material : "eut2.glass.rfx" {
+	texture[0] : "/material/special/glass_building_01.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/building_reflection/building_ref.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0.3
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 4.20474 , 4.20474 , 4.20474 }
+	fresnel : { 0.2 , 0.9 }
+	shininess : 95
+	specular : { 0.526719 , 0.526719 , 0.526719 }
+	tint : { 0.951774 , 0.951774 , 0.951774 }
+	tint_opacity : 0.7
+}

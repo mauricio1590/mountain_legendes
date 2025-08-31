@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/model/panorama/nm_clovis/nm_military_jet2.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 30
+	specular : { 0.308599 , 0.308599 , 0.308599 }
+}

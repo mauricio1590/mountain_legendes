@@ -1,0 +1,10 @@
+material : "eut2.building.asafew.a.lvcol.day.rfx" {
+	texture[0] : "/prefab_cesar/gasolinerakronos/estrella.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[5] : 0
+	diffuse : { 0.395622 , 0.395622 , 0.395622 }
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+	queue_bias : 1
+}

@@ -1,0 +1,103 @@
+SiiNunit
+{
+ 
+# INDONESIA MODEL covered by Septian MR
+# Credit : ETS 2 model base and TSM Map
+
+model_def : model.id1 {
+ 	model_desc: "/mode1/new_shiti/arbuzi1.pmd" 
+	distance_type: 2
+	category: "Indo"
+}
+
+model_def : model.id2 {
+ 	model_desc: "/mode1/new_shiti/argfact.pmd" 
+	distance_type: 2
+	category: "Indo"
+}
+
+model_def : model.id3 {
+ 	model_desc: "/mode1/new_shiti/blini_1.pmd" 
+	distance_type: 2
+	category: "Indo"
+}
+
+model_def : model.id4 {
+ 	model_desc: "/mode1/new_shiti/blini_2.pmd" 
+	distance_type: 2
+	category: "Indo"
+}
+
+model_def : model.id5 {
+ 	model_desc: "/model/building/yungas/house/road_house.pmd" 
+	distance_type: 2
+	category: "Indo"
+}
+
+model_def : model.id6 {
+	model_desc: "/model/_inne/budka_2.pmd"
+	distance_type: 2 
+ 	category: "Indo"   	
+}
+
+model_def : model.id7 {
+	model_desc: "/model/_inne/budka_3.pmd"
+	distance_type: 2  
+ 	category: "Indo"   	
+}
+
+model_def : model.id8 {
+	model_desc: "/model/ua/busstops/busstup.pmd"
+	distance_type: 2 
+ 	category: "Indo" 
+}
+
+model_def : model.id9 {
+	model_desc: "/mode1/scania_competition/scania_board02.pmd"
+	distance_type: 2 
+ 	category: "Indo"
+}
+model_def : model.id10 {
+	model_desc: "/model/building/yungas/village/kiosk.pmd"
+	distance_type: 2 
+ 	category: "Indo"
+}
+
+model_def : model.id11 {
+	model_desc: "/mode1/new_shiti/cveti_1.pmd"
+	distance_type: 2  
+ 	category: "Indo"   	
+}
+
+model_def : model.id12 {
+	model_desc: "/mode1/new_shiti/derevna.pmd"
+	distance_type: 2  
+ 	category: "Indo"   	
+}
+
+model_def : model.id13 {
+	model_desc: "/mode1/new_shiti/kvas_01.pmd"
+	distance_type: 2  
+ 	category: "Indo"   	
+}
+
+model_def : model.id14 {
+	model_desc: "/mode1/new_shiti/shahlik.pmd"
+	distance_type: 2  
+ 	category: "Indo"   	
+}
+
+model_def : model.id15 {
+	model_desc: "/model/vegetation/trees_yungas/palm_tree1.pmd" 
+ 	distance_type: 2
+	category: "Indo"  
+	
+}
+model_def : model.id16 {
+	model_desc: "/model/vegetation/trees_yungas/palm_tree2.pmd" 
+ 	distance_type: 2
+	category: "Indo" 
+	
+}
+
+}

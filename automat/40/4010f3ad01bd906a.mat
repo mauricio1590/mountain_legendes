@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/model/modbusarg/paradisog6/paint14.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.600001 , 0.600001 , 0.600001 }
+	shininess : 15
+	specular : { 0.129412 , 0.129412 , 0.129412 }
+}

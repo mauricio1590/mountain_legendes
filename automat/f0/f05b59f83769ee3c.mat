@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmap.rfx" {
+	texture[0] : "/vehicle/truck/scania_2016/grill_01.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/scania_2016/grill_01_n.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.410601 , 0.410601 , 0.410601 }
+	reflection : 0
+	shininess : 20
+	specular : { 0.0400827 , 0.0400827 , 0.0400827 }
+}

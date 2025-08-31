@@ -1,0 +1,9 @@
+material : "eut2.dif.rfx" {
+	texture[0] : "/vehicle/comil_325/interior/volks/textures/limpador_de_parabrisas.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.494119 , 0.494119 , 0.494119 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

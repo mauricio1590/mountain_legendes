@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.oclu.weight.add.env.rfx" {
+	texture[0] : "/vehicle/share/textures/generic/white_0.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/man_tgx_euro6/interior/ao.tobj"
+	texture_name[1] : "texture_oclu"
+	texture[2] : "/material/environment/interior_static/interior_static.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.00571739 , 0.00571739 , 0.00571739 }
+	env_factor : { 0.102547 , 0.102547 , 0.102547 }
+	fresnel : { 0.6 , 1 }
+	reflection : 0
+	shininess : 90
+	specular : { 0.797687 , 0.797687 , 0.797687 }
+}

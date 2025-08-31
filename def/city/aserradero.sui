@@ -1,0 +1,24 @@
+city_data : city.aserradero
+{
+	city_name: "aserradero"
+	city_name_localized: "@@aserradero@@"
+	country: california
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -3
+	map_x_offsets[]: -35
+	map_x_offsets[]: -38
+	map_x_offsets[]: -36
+	map_x_offsets[]: -34
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: -5
+	map_y_offsets[]: -8
+	map_y_offsets[]: -29
+	map_y_offsets[]: -29
+	map_y_offsets[]: -24
+	map_y_offsets[]: -26
+}

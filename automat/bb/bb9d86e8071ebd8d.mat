@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/vehicle/trailer_eu/scs_flatbed/cargo/train_parts01_wooden_box.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 120
+	specular : { 1 , 1 , 1 }
+}

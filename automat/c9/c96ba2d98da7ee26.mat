@@ -1,0 +1,6 @@
+material : "eut2.unlit.tex.a.rfx" {
+	texture[0] : "/model/panorama/ca_la/panorama_light.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+	queue_bias : 1
+}

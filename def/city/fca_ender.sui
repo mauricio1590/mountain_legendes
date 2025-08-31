@@ -1,0 +1,27 @@
+city_data : city.fca_ender
+{
+	city_name: "fca_ender"
+	city_name_localized: "@@fca_ender@@"
+	country: california
+	population: 3800000
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -113
+	map_x_offsets[]: -113
+	map_x_offsets[]: -113
+	map_x_offsets[]: -113
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: -8
+	map_y_offsets[]: -8
+	map_y_offsets[]: -8
+	map_y_offsets[]: -8
+
+	vehicle_brands[]: "kenworth"
+}

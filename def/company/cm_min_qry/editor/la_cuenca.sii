@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .la_cuenca {
+ city: la_cuenca
+ prefab: d_qry
+}
+}

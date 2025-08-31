@@ -1,0 +1,10 @@
+material : "eut2.dif.lum.shadow.rfx" {
+	texture[0] : "/prefab/tollgate/rumorosa/textura/lampara.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shadow_bias : 0
+	shininess : 90
+	specular : { 0.447988 , 0.447988 , 0.447988 }
+}

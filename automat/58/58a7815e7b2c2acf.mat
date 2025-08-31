@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.mult.dif.spec.tsnmapuv.shadow.a.rfx" {
+	texture[0] : "/model2/rock/hillside2_gs_blke.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model2/rock/hillside_brown_mult.tobj"
+	texture_name[1] : "texture_mult"
+	texture[2] : "/model2/rock/hillside_blke2_nrm.tobj"
+	texture_name[2] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shadow_bias : 0
+	shininess : 20
+	specular : { 0.032794 , 0.032794 , 0.032794 }
+	queue_bias : 1
+}

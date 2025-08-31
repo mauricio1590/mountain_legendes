@@ -1,0 +1,4 @@
+material : "eut2.retroreflective.rfx" {
+	texture[0] : "/model/sign/speedcamera/speedcamera_sign_sk.tobj"
+	texture_name[0] : "texture_base"
+}

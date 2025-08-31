@@ -1,0 +1,14 @@
+SiiNunit
+{
+
+prefab_model : prefab.gas {
+	model_desc: "/prefab/servisos/posto.pmd"
+	prefab_desc: "/prefab/servisos/posto.ppd"
+}
+
+prefab_model : prefab.of {
+	model_desc: "/prefab/servisos/oficina.pmd"
+	prefab_desc: "/prefab/servisos/oficina.ppd"
+}
+
+}

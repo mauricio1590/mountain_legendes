@@ -1,0 +1,4 @@
+material : "eut2.retroreflective.rfx" {
+	texture[0] : "/model/sign/city_limits/city_limits_liege_exit.tobj"
+	texture_name[0] : "texture_base"
+}

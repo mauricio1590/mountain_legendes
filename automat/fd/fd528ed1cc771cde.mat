@@ -1,0 +1,5 @@
+material : "eut2.unlit.tex.rfx" {
+	texture[0] : "/model/editor/gizmos.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

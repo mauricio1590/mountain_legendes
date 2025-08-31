@@ -1,0 +1,11 @@
+material : "eut2.dif.anim.flipsheet.rfx" {
+	texture[0] : "/prefab2/concrete_factory/belt_conveyor.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[0] : { 30 , 800 , 800 }
+	aux[1] : { 0.008 , 1 }
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

@@ -1,0 +1,8 @@
+material : "eut2.building.day.fx" {
+	texture[0] : "/prefab/port/port_tyne.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+	specular : { 0.0533936 , 0.0533936 , 0.0533936 }
+	shininess : 4
+	add_ambient : 0
+}

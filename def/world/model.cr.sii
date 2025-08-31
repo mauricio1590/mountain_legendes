@@ -1,0 +1,14 @@
+SiiNunit
+{
+
+model_def : model.crmm92  {
+	model_desc: "/model/gas_station/gas_02.pmd"
+	category: "gas station TZ map"
+}
+model_def : model.crmm93  {
+	model_desc: "/model/gas_station/price_stand_01_cr.pmd"
+	category: "gas station TZ map"
+}
+}
+
+}

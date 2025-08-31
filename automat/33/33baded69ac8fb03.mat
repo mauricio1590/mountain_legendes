@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.decal.over.rfx" {
+	texture[0] : "/model/vegetation/decal/wa_mud_decal.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.279857 , 0.298903 , 0.207707 }
+	queue_bias : 0
+	reflection : 0
+	shininess : 6
+	specular : { 0 , 0 , 0 }
+}

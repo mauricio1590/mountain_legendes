@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.decal.over.rfx" {
+	texture[0] : "/material/terrain/washington/wa_field_generic.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.318547 , 0.284647 , 0.284647 }
+	queue_bias : 0
+	reflection : 0
+	shininess : 0
+	specular : { 0 , 0 , 0 }
+}

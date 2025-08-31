@@ -1,0 +1,6 @@
+material : "eut2.retroreflective.tsnmapuv.piko.alldir.rfx" {
+	texture[0] : "/vehicle/trailer_owned/scs_gooseneck/decals.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/trailer_owned/scs_gooseneck/decals_normal.tobj"
+	texture_name[1] : "texture_nmap"
+}

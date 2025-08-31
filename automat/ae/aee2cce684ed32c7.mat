@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.oclu.weight.add.env.rfx" {
+	texture[0] : "/vehicle/truck/renault_t/interior/carbon.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/renault_t/interior/ao.tobj"
+	texture_name[1] : "texture_oclu"
+	texture[2] : "/material/environment/interior_static/interior_static.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.3656 , 0.3656 , 0.3656 }
+	env_factor : { 0.204981 , 0.204981 , 0.204981 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 60
+	specular : { 1 , 1 , 1 }
+}

@@ -1,0 +1,5 @@
+material : "eut2.unlit.tex.decal.mult" {
+	texture[0] : "/model/sign/company_logos/norrsken/norrsken.dlc_north.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

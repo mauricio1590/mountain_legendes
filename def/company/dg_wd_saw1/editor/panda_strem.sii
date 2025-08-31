@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .panda_strem {
+ city: panda_strem
+ prefab: d_wd_saw1
+}
+}

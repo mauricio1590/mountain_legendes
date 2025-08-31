@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.mult.dif.spec.decal.over.rfx" {
+	texture[0] : "/model/rock/cliffs/nm_red_rock_decal.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model/rock/cliffs/nm_red_rock01_light_mult.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	diffuse : { 0.8749 , 0.8749 , 0.8749 }
+	queue_bias : 0
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}
